@@ -1,5 +1,6 @@
 using namespace std;
 #include<bits/stdc++.h>
+#include<iostream>
 int main()
 {
     string str1,str2;
@@ -32,4 +33,5 @@ int main()
         }
     }
     cout<<mat[size1][size2]<<endl;
+    return 0;
 }
