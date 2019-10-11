@@ -32,4 +32,6 @@ int main()
         }
     }
     cout<<mat[size1][size2]<<endl;
+    return(0);
+    
 }
