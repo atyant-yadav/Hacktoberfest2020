@@ -1,5 +1,6 @@
 # Hactoberfest2019
-A repo for new open source contributers to begin with open source contribution.
+A repo for new open source contributers to begin with open source contribution. <br />
+Star this repository.
 
 Generate and get idea by making pull request to this repo and complete Hactoberfest 2019. <br />
 
