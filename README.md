@@ -6,6 +6,7 @@ Generate and get idea by making pull request to this repo and complete Hactoberf
 
 People who completed Hacktoberfest'19 using this repository. <br />
 1-Arush Saxena <br />
+2-Ayush Das <br />
 2-Atyant Yadav <br />
 3-Anwesh Das <br />
 4-Aman Raj <br />
