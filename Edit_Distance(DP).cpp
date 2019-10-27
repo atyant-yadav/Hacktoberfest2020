@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     string str1,str2;
+    cout<<"ENTER TWO STRINGS"<<endl;
     cin>>str1>>str2;
     int size1=str1.size();
     int size2=str2.size();
