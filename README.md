@@ -1,8 +1,8 @@
 # Hactoberfest2019
-A repo for new open source contributers to begin with open source contribution. <br />
+A repo for new open source contributors to begin with open source contribution. <br />
 Star this repository.
 
-Generate and get idea by making pull request to this repo and complete Hactoberfest 2020. <br />
+Generate and get idea by making pull requests to this repo and complete Hactoberfest 2020. <br />
 
 People who completed Hacktoberfest'19 using this repository. <br />
 
@@ -27,4 +27,7 @@ Add your name here, and learn how to edit in README. <br />
 17-Malik813 <br />
 18-aperesypkin <br />
 19-shivesh Gupta <br/>
-...
+20-smokie087<br />
+21-alice choung <br />
+22-bhuvnesh <br />
+23-Bigdrea6 <br />
