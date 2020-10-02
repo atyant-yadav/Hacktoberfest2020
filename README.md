@@ -35,3 +35,4 @@ Add your name here, and learn how to edit in README. <br />
 24-Manish Kumar <br/>
 25-Garry  <br/>
 26-Pranav  <br/>
+26-Bikram Kharal  <br/>
