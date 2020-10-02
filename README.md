@@ -1,11 +1,11 @@
-# Hactoberfest2019
+# Hactoberfest2020
 A repository for new open source contributers to begin with open source contribution. <br />
 
 Star this repository.
 
 Generate and get idea by making pull requests to this repo and complete Hactoberfest 2020. <br />
 
-People who completed Hacktoberfest'19 using this repository. <br />
+People who completed Hacktoberfest'20 using this repository. <br />
 
 Add your name here, and learn how to edit in README. <br />
 
@@ -40,3 +40,4 @@ Add your name here, and learn how to edit in README. <br />
 28-Saneen KP <br />
 29-Adnan Sheikh <br />
 30-Ankita Mandal <br />
+31-Jayant Namrani <br/>
