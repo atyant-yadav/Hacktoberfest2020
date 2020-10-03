@@ -1,4 +1,6 @@
-n=int(input(" enter which table u wanna genrate suppose 2 will genrate 2's table\n"))
-ran_ge=int(input(" enter range upto u wanna genrate\n"))
-for i in range(1,ran_ge+1):
-    print(n,"*",i,'=',n*i)
+print("Multiplication Table Generator")
+tab_no=int(input(" Enter which table u want to generate(like 2 for 2's table):"))
+range_tab=int(input(" Enter number upto which you  want to generate the table (like 10 for 1-10):"))
+for i in range(1,range_tab+1):
+    print(tab_no,"*",i,'=',tab_no*i)
+
