@@ -11,4 +11,4 @@ bubble_Sort(arr)
   
 print ("Current array:") 
 for i in range(len(arr)): 
-    print ("%d" %arr[i]),  
+    print ("%d" %arr[i])  
