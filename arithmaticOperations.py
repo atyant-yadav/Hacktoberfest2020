@@ -1,0 +1,8 @@
+print("Enter two numbers :")
+number1 = int(input())
+number2 = int(input())
+print("Sum of "+ str(number1) + " and "+ str(number2) + " is " + str(number1+number2))
+print("Difference of "+ str(number1) + " and "+ str(number2) + " is " + str(number1-number2))
+print("Product of "+ str(number1) + " and "+ str(number2) + " is " + str(number1*number2))
+print("Quotient of "+ str(number1) + " and "+ str(number2) + " is " + str(number1//number2))
+print("Remainder of "+ str(number1) + " and "+ str(number2) + " is " + str(number1%number2))
