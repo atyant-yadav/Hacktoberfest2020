@@ -5,7 +5,7 @@ Star this repository.
 
 Generate and get idea by making pull requests to this repo and complete Hactoberfest 2020. <br />
 
-People who completed Hacktoberfest'20 using this repository. <br />
+People who finished Hacktoberfest'20 using this repository. <br />
 
 Add your name here, and learn how to edit in README. <br />
 
