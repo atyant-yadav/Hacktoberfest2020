@@ -9,6 +9,8 @@ People who completed Hacktoberfest'20 using this repository. <br />
 
 Add your name here, and learn how to edit in README. <br />
 
+This repository is participating in Hacktoberfest. Maintainers of the repository have added the "hacktoberfest" topic to their repository.<br/>
+
 1-Atyant Yadav <br />
 2-Arush Saxena <br />
 3-Anwesh Das <br />
@@ -49,3 +51,4 @@ Add your name here, and learn how to edit in README. <br />
 37-Akshita Mehta<br/>
 38-Puru Chandra<br/>
 39-Marina<br/>
+40-Harsh<br/>
