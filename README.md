@@ -2,13 +2,15 @@
 
 A repo for new open source contributers to begin with open source contribution. <br />
 
-Star this repository.
+How to contribute?.<br />
 
-Generate and get idea by making pull requests to this repo and complete Hactoberfest 2020. <br />
+1.Fork this repo and give it a star.<br />
+
+2.Generate and get idea by making pull requests to this repo and complete Hactoberfest 2020. <br />
 
 People who completed Hacktoberfest'20 using this repository. <br />
 
-Add your name here, and learn how to edit in README. <br />
+Add your name here, and learn how to edit README.md. <br />
 
 Atyant Yadav <br />
 Arush Saxena <br />
@@ -62,3 +64,4 @@ Yogesh<br/>
 Asit Kumar</br>
 Roberto Maia<br/>
 Yash choudhary<br/>
+Mahi Jain <br/>
