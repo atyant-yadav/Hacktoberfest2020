@@ -8,7 +8,7 @@ How to contribute?.<br />
 
 2.Generate and get idea by making pull requests to this repo and complete Hactoberfest 2020. <br />
 
-People who completed Hacktoberfest'20 using this repository. <br />
+People who finished Hacktoberfest'20 using this repository. <br />
 
 Add your name here, and learn how to edit README.md. <br />
 
@@ -66,5 +66,10 @@ Roberto Maia<br/>
 Yash choudhary<br/>
 Mahi Jain <br/>
 Neeraj Singh NK <br/>
+SimonaMS<br/>
+Strange<br/>
+Venkata Sreeram <br>
+Anoop P<br/>
+Rahul <br/>
+Aniket Shukla<br/>
 Melancholic <br/>
-
