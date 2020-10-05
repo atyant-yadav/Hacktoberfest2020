@@ -1,7 +1,7 @@
 # Hactoberfest2020
 
 A repo for new open source contributers to begin with open source contribution. <br />
-
+UPDATE: Added "hactoberfest" tag to this repo.
 How to contribute?.<br />
 
 1.Fork this repo and give it a star.<br />
