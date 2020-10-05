@@ -28,28 +28,21 @@ public class MergeSort {
         //Merging tha arrays
         while (i < n1 && j < n2) {
             if (L[i] <= R[j]) {
-                arr[k] = L[i];
-                i++;
+                arr[k++] = L[i++];
             }
             else {
-                arr[k] = R[j];
-                j++;
+                arr[k++] = R[j++];
             }
-            k++;
         }
 
         /*Copy the remaining elements of L[] if any*/
         while (i < n1) {
-            arr[k] = L[i];
-            i++;
-            k++;
+            arr[k++] = L[i++];
         }
 
         /*Copy remaining elements of R[] if any*/
         while (j < n2) {
-            arr[k] = R[j];
-            j++;
-            k++;
+            arr[k++] = R[j++];
         }
     }
 
