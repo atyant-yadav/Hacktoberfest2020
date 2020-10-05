@@ -1,0 +1,17 @@
+public class AgesScanner {
+	public static void main(String Args[]) {
+		System.out.print("Enter the Age: ");
+		Scanner in = new Scanner(System.in);
+		int i = in.nextInt();
+		in.close();
+		if (i >= 0 && i <= 5) {
+			System.out.println("Infant");
+		} else if (i >= 6 && i <= 17) {
+			System.out.println("Child");
+		} else if (i >= 18) {
+			System.out.println("Adult");
+		} else {
+			System.out.println("Invalid input");
+		}
+	}
+}
