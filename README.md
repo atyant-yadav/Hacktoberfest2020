@@ -56,3 +56,4 @@ Praveen Kumar Verma<br/>
 Kumar Mulekar<br/>
 Ayush Gupta<br/>
 Aliex<br/>
+Yasharth Tripathi<br/
