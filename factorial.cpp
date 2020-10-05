@@ -1,5 +1,6 @@
 #include <iostream>  
 using namespace std;  
+// this is the program for factorial without recursion.
 int main()  
 {  
    int i,fact=1,number;    
