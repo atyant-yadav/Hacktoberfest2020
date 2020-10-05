@@ -1,12 +1,7 @@
 /*
- * Autore: Bartocetti Enrico
- * Data: 25/09/2020
- * Versione: 1
- * Sorgente: calculator.c
- *
- * Funzione:
- * Eseguire le 4 operazioni fondamentali tra 2 numeri. 
- *
+ * Autor: EnryBarto GitHub: https://github.com/EnryBarto
+ * Date: 05/09/2020 dd/mm/yyyy
+ * Relase: 1
  */
 
 
