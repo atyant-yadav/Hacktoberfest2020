@@ -14,7 +14,7 @@ Add your name here, and learn how to edit in README. <br />
 2-Arush Saxena <br />
 3-Anwesh Das <br />
 4-Aman Raj <br />
-5-Tanmaya Yadav <br />
+5-Tanmay Rastaugi <br />
 6-Alexander Peresypkin <br />
 7-vaishnav-197 <br />
 8-vishu1299 <br />
