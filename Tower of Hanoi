@@ -1,0 +1,38 @@
+QUESTION:
+_______________________________________________
+Using a helper stick (peg), shift all rings from peg A to peg B using peg C.
+All rings are initally placed in ascending order, smallest being on top.
+No bigger ring can be placed over a smaller ring.
+
+Input Format
+Single line input containing a single integer N denoting the no of rings.
+
+Constraints
+1 <= N <= 10
+
+Output Format
+Print the instructions to move all the rings from peg A to B in a new line each.
+Each line should follow format : Moving ring i from A/B/C to A/B/C
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION:
+keep on shifting n-1 pegs and call for recursion to do your work
+_________________________________________________________________
+#include<bits/stdc++.h>
+using namespace std;
+
+void tower(int n,char s, char h, char d){
+	if(n==1){
+	cout<<"Moving ring "<<1<<" from "<<s<<" to "<<d<<endl;
+	return;
+	}
+	
+    tower(n-1,s,d,h);                                                      //recursive call
+	cout<<"Moving ring "<<n<<" from "<<s<<" to "<<d<<endl;
+	tower(n-1,h,s,d);
+}
+int main() {
+	int n;
+	cin>>n;
+	tower(n,'A','C','B');
+	return 0;
+}
