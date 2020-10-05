@@ -1,5 +1,6 @@
 # Hactoberfest2020
-A repository for new open source contributers to begin with open source contribution. <br />
+
+A repo for new open source contributers to begin with open source contribution. <br />
 
 Star this repository.
 
@@ -13,7 +14,7 @@ Add your name here, and learn how to edit in README. <br />
 2-Arush Saxena <br />
 3-Anwesh Das <br />
 4-Aman Raj <br />
-5-Tanmaya Yadav <br />
+5-Tanmay Rastaugi <br />
 6-Alexander Peresypkin <br />
 7-vaishnav-197 <br />
 8-vishu1299 <br />
@@ -45,6 +46,10 @@ Add your name here, and learn how to edit in README. <br />
 33-Mehul Aswar<br/>
 34-Chinmay Das<br/>
 35-Kunal Mehta<br/>
-36-Akshita Mehta<br/>
-37-Puru Chandra<br/>
-38-Praveen Kumar Verma<br/>
+36-Rajdeep Ghosh <br/>
+37-Akshita Mehta<br/>
+38-Puru Chandra<br/>
+39-Marina<br/>
+40-DPrinceKumar<br/>
+41-Dheeraj Dcoder<br/>
+42-Praveen Kumar Verma<br/>
