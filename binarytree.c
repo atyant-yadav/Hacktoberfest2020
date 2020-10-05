@@ -115,7 +115,7 @@ start = build_node[1];    /* start points to the root node of the binary tree*/
 } 
    
 
-
+/*performs inordertransversal using recursion */
  void inordertrav(struct node *n)     
  { 
     if (n != 0)   
@@ -125,7 +125,7 @@ start = build_node[1];    /* start points to the root node of the binary tree*/
         }
  }
 
-
+/*performs postordertransversal using recursion */
   void postordertrav(struct node *n)  
  { 
     if (n != 0)   
@@ -134,6 +134,8 @@ start = build_node[1];    /* start points to the root node of the binary tree*/
            printf("   %d   ", n->data);       
         }
  }
+
+ /*performs pretransversal using recursion */
  void preordertrav(struct node *n)
  {
     if (n != 0)   
@@ -147,7 +149,7 @@ start = build_node[1];    /* start points to the root node of the binary tree*/
  }
 
 
-
+/*Display output trees */
 void display()                                  
  { int level,i=0, count =1;
           
