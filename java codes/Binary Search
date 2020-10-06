@@ -1,0 +1,34 @@
+class BinarySearch { 
+    int binarySearch(int arr[], int l, int r, int x) 
+    { 
+        if (r >= l) { 
+            int mid = l + (r - l) / 2; 
+
+            if (arr[mid] == x) 
+                return mid; 
+            if (arr[mid] > x) 
+                return binarySearch(arr, l, mid - 1, x); 
+
+            return binarySearch(arr, mid + 1, r, x); 
+        } 
+        return -1; 
+    } 
+    public static void main(String args[]) 
+    { 
+        System.out.println("Enter the size of array");
+        int sz=s.nextInt();
+        int [] arr=new int[sz];
+        System.out.println("Enter the elements of array");
+        for(int i=0;i<sz;i++){
+            arr[i]=s.nextInt();
+        }
+        System.out.println("Enter the element to be searched");
+        int x=s.nextInt();
+        int ans=binarySearch(arr,0,sz-1,x);
+        if(ans==-1){
+             System.out.println("element not found");
+             return;
+        }
+        System.out.println("Element found at index "+ans);
+    } 
+} 
