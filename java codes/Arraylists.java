@@ -20,4 +20,8 @@ class ArryaLists{
       city_List.addAll(4,more_Cities);
      
       System.out.println("\nArrayList after adding list at index 4:" + city_List);
+      
+      city_List.remove(3);
+      
+      System.out.println("\nArrayList after removing element at index 3:"+ ity_List);
    }  
