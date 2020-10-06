@@ -1,3 +1,17 @@
+"""
+Output-:
+
+Enter how many numbers you want ot enter: 5
+enter num:21
+enter num:231
+enter num:567
+enter num:100
+enter num:69
+[100, 21, 231, 567, 69]
+[100, 21, 231, 567, 69]
+[21, 69, 100, 231, 567]
+
+"""
 def insertion(a,n,m):
     for i in range(1,len(a)):
         j=i-1
