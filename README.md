@@ -1,4 +1,4 @@
-# Hactoberfest2020
+# Hacktoberfest2020
 A repository for new open source contributers to begin with open source contribution. <br />
 
 Star this repository.
