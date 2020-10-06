@@ -10,10 +10,10 @@ public class BinarySearch {
 		int x = 11; 
 		int result = ob.binarySearch(arr, 0, n - 1, x); 
 		if (result == -1) 
-			System.out.println("Element not present"); 
+			System.out.println("Element not present with given value"); 
 		else
 			System.out.println("Element found at index " + result+".");
-			System.out.println("Element is at " + (result+1)+" position.");
+			System.out.println("Element is present at " + (result+1)+" position.");
 	} 
 		
 		int binarySearch(int arr[], int l, int r, int x) 
