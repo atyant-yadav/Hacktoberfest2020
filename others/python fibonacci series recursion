@@ -1,4 +1,4 @@
-# Python program to display the Fibonacci sequence
+# Python program to display the Fibonacci Sequence
 
 def recur_fibo(n):
    if n <= 1:
@@ -10,8 +10,8 @@ nterms = 10
 
 # check if the number of terms is valid
 if nterms <= 0:
-   print("Plese enter a positive integer")
+   print("Plese enter a Positive Integer")
 else:
-   print("Fibonacci sequence:")
+   print("Fibonacci Sequence:")
    for i in range(nterms):
        print(recur_fibo(i))
