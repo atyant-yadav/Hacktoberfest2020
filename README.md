@@ -1,6 +1,6 @@
-# Hactoberfest2020
 
-A repo for new open source contributers to begin with open source contribution. <br />
+# Hacktoberfest2020
+A repository for new open source contributers to begin with open source contribution. <br />
 UPDATE: Added "hacktoberfest" tag to this repo.<br />
 How to contribute?.<br />
 
@@ -9,8 +9,6 @@ How to contribute?.<br />
 2.Generate and get idea by making pull requests to this repo and complete Hacktoberfest 2020. <br />
 
 People who finished Hacktoberfest'20 using this repository. <br />
-
-Add your name here, and learn how to edit README.md. <br />
 
 Atyant Yadav <br />
 Arush Saxena <br />
@@ -77,3 +75,4 @@ Harsh<br/>
 Bhashitha Dhananjaya<br/>
 EnryBarto <br/>
 Hritik<br/>
+Priyanshu <br/>
