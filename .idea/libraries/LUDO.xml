@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LUDO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LUDO/LUDO.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
