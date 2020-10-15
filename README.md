@@ -40,9 +40,9 @@ Manish Kumar <br/>
 Garry  <br/>
 Pranav  <br/>
 Bikram Kharal  <br/>
-Shubham Raj
+Shubham Raj <br/>
 Saneen KP <br />
-Adnan Sheikh <br /
+Adnan Sheikh <br />
 Ankita Mandal <br />
 Jayant Namrani <br/>
 Daalb <br/>
