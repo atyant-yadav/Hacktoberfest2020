@@ -1,0 +1,36 @@
+a{
+color:crimson;
+text-decoration: none;}
+a:hover{
+color:red;
+text-decoration:none;}
+body{
+background-color: beige;
+color:black;
+text-align: center;
+}
+footer{
+margin top:2rem;
+margin-bottom:2rem;
+}
+h1{
+margin top:3rem;
+margin-bottom:0.5rem;
+}
+h2{
+color:crimson;
+margin top:2.5rem;
+margin-bottom:2.5rem;
+}
+hr{
+margin top:3rem;
+margin-bottom:3rem;}
+ul{
+display:table;
+margin:0 auto;
+text-align:left;}
+body{
+  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pf-misctexture01-beer-000_5.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c1552a7bdc2ea7b6e17d8d0d893c15be);
+  background-repeat: no-repeat;
+background-size: cover;
+}
