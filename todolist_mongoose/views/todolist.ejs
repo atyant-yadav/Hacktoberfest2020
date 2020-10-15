@@ -1,0 +1,42 @@
+<%- include('partials/header'); %>
+<div class="box" id="heading">
+  <h1><%- list %></h1>
+</div>
+<div class="box">
+  <% todolist.forEach(list, task => { %>
+  <form action="/delete" method="post">
+    <div class="item">
+      <input class="checkbox" type="checkbox" name="item_id" value="<%= task.id %>" <%= task.finished ? "checked" : "" %> onChange="this.form.submit()">
+      <input type="hidden" name="list" value="<%= list %>">
+      <p>
+        <%= task.title %>
+      </p>
+    </div>
+  </form>
+  <% }); %>
+  <form class="item" action="/" method="post">
+    <input type="text" name="newItem" placeholder="New Item" autocomplete="off" autofocus="true">
+    <button type="submit" name="list" value="<%= list %>">+</button>
+  </form>
+</div>
+<% const lists = Array.from(todolist.lists()); %>
+<% if (lists.length > 1) { %>
+<div class="box" id="lists">
+  <h1>Other Lists</h1>
+</div>
+<div class="box">
+  <% lists.forEach(item => { %>
+  <% if (item !== list) { %>
+  <div class="item">
+    <p>
+      <a href="/<%= item %>"><%= item %></a>
+    </p>
+  </div>
+  <% } %>
+  <% }); %>
+</div>
+<% } %>
+<div class="timestamp">
+  <i>Last updated <%= todolist.lastUpdated() %> (<%= todolist._backend %>)</i>
+</div>
+<%- include('partials/footer'); %>
