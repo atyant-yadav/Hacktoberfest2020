@@ -1,0 +1,2850 @@
+[33mcommit 48088e0aba0cd9dffe76e71f92a67a80b3fad047[m[33m ([m[1;36mHEAD -> [m[1;32madd_program[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 5539ac2 b903f90
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 16 19:28:50 2020 +0530
+
+    Merge pull request #504 from shalini-30/patch-1
+    
+    anagram.cpp
+
+[33mcommit 5539ac27c5ad26810b15042a41f9135ce1cc09f3[m
+Merge: 0fae399 401a5ec
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 16 19:22:45 2020 +0530
+
+    Merge pull request #513 from GamerNishant/master
+    
+    dnf-sort algorithm
+
+[33mcommit 401a5ec33c0ef1c18202c869041070b4af257708[m
+Author: Nishant Singh <70948353+GamerNishant@users.noreply.github.com>
+Date:   Fri Oct 16 17:37:08 2020 +0530
+
+    Radix Sort
+    
+    Radix Sort is O(n) time sort.
+
+[33mcommit 12631efd2ddd4710b5696812a6ad2d90f3aecb91[m
+Author: Nishant Singh <70948353+GamerNishant@users.noreply.github.com>
+Date:   Fri Oct 16 17:07:33 2020 +0530
+
+    dnf-sort algorithm
+    
+    dnf-sort algo added by GamerNishant
+
+[33mcommit b903f90f6efedd6daedd7cdea771d90239f20c30[m
+Author: shalini soni <72967834+shalini-30@users.noreply.github.com>
+Date:   Fri Oct 16 13:51:34 2020 +0530
+
+    Create anagram.cpp
+
+[33mcommit 0fae39913d92f28c09fce26c910f61fde748aeee[m
+Merge: f3618b4 4ea6de8
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:20:48 2020 +0530
+
+    Merge pull request #433 from NurIkhwanAnnafis/master
+    
+    add bubble sort javascript
+
+[33mcommit 4ea6de8a685538aaf9caafb7cad1095226d7484b[m
+Merge: ca848bb f3618b4
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:20:39 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit f3618b418cdfd1b71fd44934b656b12b08369688[m
+Merge: 782a308 0c08ac6
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:19:59 2020 +0530
+
+    Merge pull request #434 from rampotter10/ram
+    
+    Added India_map.c
+
+[33mcommit 782a308853c7c24f14347ebf4a534dc2678e58d7[m
+Merge: 7a0941d 84b19fd
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:19:25 2020 +0530
+
+    Merge pull request #435 from No1CanButMe/master
+    
+    Add famous question of FAANG companies [removeNthNodeFromEnd.py]
+
+[33mcommit 7a0941dbac235b7e09802921c65440be5ef29f5d[m
+Merge: f5f93aa 960fbc9
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:19:02 2020 +0530
+
+    Merge pull request #436 from azmuth13/surajkumar
+    
+    Added Object oriented programs in C++
+
+[33mcommit f5f93aabd8403a47c15d8a3337b81a7cf0b017aa[m
+Merge: 208622c eae4604
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:18:51 2020 +0530
+
+    Merge pull request #437 from sndtejaswini0429/master
+    
+    calculatorusingswitch.c
+
+[33mcommit 208622ce7c3ce19480e09121937229c8fb4f152d[m
+Merge: 4e0d064 fa273e8
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:18:20 2020 +0530
+
+    Merge pull request #391 from Abhimanyuten/master
+    
+    Create GarbageCollecter.java
+
+[33mcommit 4e0d0643c2204db75cac16e8a52e80c367b6e921[m
+Merge: 381fca8 3c01c99
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:18:11 2020 +0530
+
+    Merge pull request #399 from felix-wolf/master
+    
+    added fibonacci sequence as python code. calculates the fib sequence up to a specified number.
+
+[33mcommit 381fca89ea1ec08fdfd06ba02e964dffd44417e2[m
+Merge: 9945125 052c9ed
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:17:57 2020 +0530
+
+    Merge pull request #405 from manisha069/master
+    
+    Added Even_or_Odd.py
+
+[33mcommit 9945125c3068d50052135845e7bb73e4d7809087[m
+Merge: b4b8995 0f13139
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:17:39 2020 +0530
+
+    Merge pull request #408 from naumanahmad9/heap-sort-py
+    
+    add heap sort with python
+
+[33mcommit b4b899516ce34f31d38e1c1e92d106bbb4d56e37[m
+Merge: 0215c9c 7840272
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Thu Oct 15 00:17:24 2020 +0530
+
+    Merge pull request #412 from aaryantyagi182/master
+    
+    interpolation search
+
+[33mcommit eae460492bf5cc165ce450e1a548b29c8c8f5098[m
+Author: sndtejaswini0429 <67901721+sndtejaswini0429@users.noreply.github.com>
+Date:   Wed Oct 14 22:18:30 2020 +0530
+
+    calculatorusingswitch.c
+    
+    created a simple calculator in c.
+
+[33mcommit 960fbc9629763b926515de262631c4ea791b95cd[m
+Author: Suraj kumar <surajkrishankumaryadav@gmail.com>
+Date:   Wed Oct 14 21:19:57 2020 +0530
+
+    Added Object oriented programs in C++
+
+[33mcommit 84b19fd559d547850b1d581c86aea74f11294e04[m
+Author: No1CanButMe <juglalswami@gmail.com>
+Date:   Wed Oct 14 20:41:07 2020 +0530
+
+    Create removeNthNodeFromEnd.py
+
+[33mcommit 0c08ac6067c2e0c889ae9ba18bf9b8226b3dc82b[m
+Author: Ram Kumar <rampotter10@gmail.com>
+Date:   Wed Oct 14 18:50:37 2020 +0530
+
+    Added India_map.c
+
+[33mcommit ca848bbf69a4dfb842852dfdd8096f24bcec4a98[m
+Author: NurIkhwanAnnafis <ikhwan@twiscoder.com>
+Date:   Wed Oct 14 20:10:50 2020 +0700
+
+    add bubble sort javascript
+
+[33mcommit 78402728773346f5c2ab24482edbb0878168609b[m
+Author: Aaryan Tyagi <42247648+aaryantyagi182@users.noreply.github.com>
+Date:   Tue Oct 13 14:09:00 2020 +0530
+
+    Add files via upload
+    
+    new Search algorithm
+
+[33mcommit 0f13139ef6c6dcda309ddfcc643309956250ca3e[m
+Author: Nauman Ahmad <tnsd995@gmail.com>
+Date:   Tue Oct 13 04:27:30 2020 +0500
+
+    add heap sort with python
+
+[33mcommit 052c9ed851642d49fc1a4c1dd8a8bccc22811519[m
+Author: manisha <xyz@gmail.com>
+Date:   Tue Oct 13 01:16:12 2020 +0530
+
+    Added Even_or_Odd.py
+
+[33mcommit 3c01c99c93cfb170b536ff18ea86e3c865629d2f[m
+Author: Felix Wolf <wolf@sonobeacon.com>
+Date:   Mon Oct 12 14:42:06 2020 +0200
+
+    added fibonacci sequence
+
+[33mcommit 0215c9c66f13eab42f0aed4cab82a6bcac4f2ce2[m
+Merge: e04f599 e307d07
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 12 17:57:00 2020 +0530
+
+    Merge pull request #388 from imgsingh/master
+    
+    TempTables
+
+[33mcommit e04f599533156028a5ccf2bc0f8763bfb5a899b6[m
+Merge: fab2189 3d26453
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 12 17:56:49 2020 +0530
+
+    Merge pull request #389 from mahimonga/master
+    
+    added DoubleBasePalindrome.py
+
+[33mcommit fab21899a3d6555ec9d50388935aa109ce9eed04[m
+Merge: 2940f14 f1551db
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 12 17:56:38 2020 +0530
+
+    Merge pull request #390 from Aanchal1012/hacks
+    
+    Doubly Linked List with diff. functions
+
+[33mcommit 2940f1444b0b982d092f0cdf19a445cc84096015[m
+Merge: 290437b cf9cb41
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 12 17:56:27 2020 +0530
+
+    Merge pull request #395 from parinita08/master
+    
+    Added selection sort algorithm in the c codes file
+
+[33mcommit 290437b7edf4282071efe32c33838de6427c743a[m
+Merge: 463fa49 f900c80
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 12 17:56:12 2020 +0530
+
+    Merge pull request #398 from manisha069/master
+    
+    Added wordcount.py
+
+[33mcommit 463fa49ec2e5c5eb77f644e9889324067c228ef9[m
+Merge: 2c298b9 b6a4604
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 12 17:55:19 2020 +0530
+
+    Merge pull request #344 from m-uma/master
+    
+    Create FlipACoin.java
+
+[33mcommit 2c298b9214d4a13929988c2e4832fedcea88eaf2[m
+Merge: e1115db 327e374
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 12 17:54:32 2020 +0530
+
+    Merge pull request #349 from Sneha-nagpal/patch-1
+    
+    added atbash cipher decoder
+
+[33mcommit e1115dbbfbdffece239f99f1f7ab0d2be43cec2e[m
+Merge: e2cdd9d c2348c1
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 12 17:54:20 2020 +0530
+
+    Merge pull request #359 from minichhabra/master
+    
+    Add files via upload
+
+[33mcommit e2cdd9dc08cac8cbf58aec841040c4aaf2357ecc[m
+Merge: 2d79301 855b6ac
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 12 17:54:08 2020 +0530
+
+    Merge pull request #360 from Pratiksha0100/master
+    
+    Added factorial code in python
+
+[33mcommit 2d793010f66c1233414da9ad20471cf0dedcce92[m
+Merge: c5e28fc 8f64655
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 12 17:53:58 2020 +0530
+
+    Merge pull request #367 from Chaitali3005/Chaitali
+    
+    Added basic C codes
+
+[33mcommit f900c805c1475a11b7f5095e1ccb1f67b321f6bf[m
+Author: manisha <xyz@gmail.com>
+Date:   Mon Oct 12 17:24:57 2020 +0530
+
+    Added wordcount.py
+
+[33mcommit cf9cb412ba68a1bac8751971ec2a53ecf7df8d1c[m
+Author: Parinita Vedantam <57519879+parinita08@users.noreply.github.com>
+Date:   Mon Oct 12 12:44:35 2020 +0530
+
+    Added bubble sort algorithm in the c codes folder.
+
+[33mcommit dc9f7934715f16fc491f320bfb02c71465e2c2f8[m
+Author: Parinita Vedantam <57519879+parinita08@users.noreply.github.com>
+Date:   Mon Oct 12 12:26:32 2020 +0530
+
+    Added selection sort algorithm in the c codes file
+
+[33mcommit fa273e8b651e1a26f25ca4ded64002cf717f063c[m
+Author: Abhimanyuten <66128127+Abhimanyuten@users.noreply.github.com>
+Date:   Mon Oct 12 02:57:03 2020 +0530
+
+    Create GarbageCollecter.java
+    
+    Garbage value collection code for Java
+
+[33mcommit f1551db919b8eb652aa12485e463693a52727b34[m
+Author: Aanchal1012 <56544911+Aanchal1012@users.noreply.github.com>
+Date:   Sun Oct 11 23:43:27 2020 +0530
+
+    Doubly Linked List with diff. functions
+
+[33mcommit 3d264534141654a20c71a1776556ac3d13ee664b[m
+Merge: c5e28fc adde040
+Author: Mahi Monga <61409868+mahimonga@users.noreply.github.com>
+Date:   Sun Oct 11 22:19:04 2020 +0530
+
+    Merge pull request #1 from mahimonga/mahimonga-patch-1
+    
+    added DoubleBasePalindrome.py
+
+[33mcommit e307d0755f1ecbd02b16548a66569dc260abe706[m
+Author: Gursimran Singh <gursimranbasra7.gs@gmail.com>
+Date:   Sun Oct 11 22:18:43 2020 +0530
+
+    TempTables
+    
+    understanding temp tables in database
+
+[33mcommit adde040e224481c4c8158f083d90ffc5e5e7095e[m
+Author: mahimonga <61409868+mahimonga@users.noreply.github.com>
+Date:   Sun Oct 11 22:13:53 2020 +0530
+
+    added DoubleBasePalindrome.py
+    
+    added DoubleBasePalindrome.py with problem explanation and statement.
+
+[33mcommit 8f646555f773165982655533937bfc90a18e14e1[m
+Author: Chaitali3005 <narkhede.chaitali@gmail.com>
+Date:   Sat Oct 10 18:47:47 2020 +0530
+
+    Added basic C codes
+
+[33mcommit 855b6ac330124b26f37d67e88c108fa406527732[m
+Author: Pratiksha0100 <pratikshasramteke@gmail.com>
+Date:   Sat Oct 10 11:04:02 2020 +0530
+
+    Added factorial code in python
+
+[33mcommit c2348c1aaffb5be1bd8b4c3bfd3bc01be0738f57[m
+Author: minichhabra <58410258+minichhabra@users.noreply.github.com>
+Date:   Sat Oct 10 07:45:05 2020 +0530
+
+    Add files via upload
+
+[33mcommit 327e37472a6274a19f04450ac39174b9a295bacc[m
+Author: Sneha-nagpal <72603403+Sneha-nagpal@users.noreply.github.com>
+Date:   Fri Oct 9 15:52:10 2020 +0530
+
+    Create atbashciphersolver.py
+
+[33mcommit b6a46049dbf6d4b56b8069df82471a87f2edc3b7[m
+Author: Uma Mudaliyar <51299003+m-uma@users.noreply.github.com>
+Date:   Fri Oct 9 02:48:12 2020 +0530
+
+    Create FlipACoin.java
+    
+    Added FlipACoin in Java
+
+[33mcommit c5e28fc16ca34f578dadc882434f808ce66ac602[m
+Merge: f930e79 2405f69
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Wed Oct 7 13:14:17 2020 +0530
+
+    Merge pull request #307 from Aanchal1012/hack2020-1
+    
+    added a cpp code for Paranthesis Balancing using Stack STL
+
+[33mcommit 2405f6948e6cb87425783cbca4338cac59aa3775[m
+Author: Aanchal1012 <56544911+Aanchal1012@users.noreply.github.com>
+Date:   Wed Oct 7 11:55:40 2020 +0530
+
+    Added ParanthesisBalance in cpp codes
+
+[33mcommit 13fddec6620839f246d278fa1269212a351ac330[m
+Author: Aanchal1012 <56544911+Aanchal1012@users.noreply.github.com>
+Date:   Wed Oct 7 11:49:34 2020 +0530
+
+    Paranthesis Balance using Stack of STL
+
+[33mcommit f930e79cb3c366758110fdfdbff7c0a7655719de[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 14:46:24 2020 +0530
+
+    Update README.md
+
+[33mcommit 533c8f4b9037a1f755eb01b34f3e4da5418d4452[m
+Author: bittuyadav <bittuyadav1998@gmail.com>
+Date:   Tue Oct 6 01:07:49 2020 +0530
+
+    readme <br /> error resolved
+
+[33mcommit 3de67b8ec5f19034081ec4c2b83a8017c758a078[m
+Author: bittuyadav <bittuyadav1998@gmail.com>
+Date:   Tue Oct 6 01:05:29 2020 +0530
+
+    sorted in folders
+
+[33mcommit 9bb974971d75778a39ea95e8001fd4c87adcfa2d[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:57:47 2020 +0530
+
+    Update README.md
+
+[33mcommit 1aa7083906120e3c774d0d5287fb1b74a38add0d[m
+Merge: f943486 540021a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:56:42 2020 +0530
+
+    Merge pull request #243 from atyant-yadav/atyant-yadav-patch-1
+    
+    Update README.md
+
+[33mcommit 540021afe6fc0d7a7c372c4828b9d48a934c82fe[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:55:47 2020 +0530
+
+    Update README.md
+
+[33mcommit f943486d01606755e1613c73ed6c94337a3964dc[m
+Merge: 8246d32 f00439a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:36:37 2020 +0530
+
+    Merge pull request #241 from Melancholic/master
+    
+    Add Hamming weight algorithm
+
+[33mcommit f00439ae08ab225dcbd4a1155d2897ae1eb28685[m
+Merge: 33b4583 8246d32
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:36:28 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 8246d32084e6c61029db726fc43c9d9687f6e4b4[m
+Merge: 12674a1 3dcd8cc
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:35:25 2020 +0530
+
+    Merge pull request #240 from hritikpnd24/master
+    
+    Update README.md
+
+[33mcommit 3dcd8ccaa91dc7237436fa3a27ae6aff69eaa89d[m
+Merge: 3b49c2a 12674a1
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:35:16 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 12674a177fc7d6922736334dc74a9c7777611a7a[m
+Merge: ff73bea ae472f5
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:34:39 2020 +0530
+
+    Merge pull request #237 from EnryBarto/master
+    
+    Added calculator.c
+
+[33mcommit ae472f51c22081fcbaeabd654185ede2d11d491d[m
+Merge: 001ca21 ff73bea
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:34:29 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit ff73bea22378c3507ee242ad6b55b27de2d396a6[m
+Merge: 22b4ac6 d8f7edb
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:33:56 2020 +0530
+
+    Merge pull request #236 from kakarot2019/my-branch
+    
+    update binarytree.c
+
+[33mcommit 22b4ac6a2263a1502542eafdfcb159bf753380ee[m
+Merge: 8453c3e 3073b4f
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:33:43 2020 +0530
+
+    Merge pull request #235 from ss2808/patch-1
+    
+    Update MergeSort.java
+
+[33mcommit 8453c3e7c7f56243294620aa7b93ad426704e5e5[m
+Merge: 5db3bc4 9afbbdc
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:33:34 2020 +0530
+
+    Merge pull request #234 from neerajjaiswall/changed-BinarySearch
+    
+    Added trie data structure in c++
+
+[33mcommit 5db3bc41a42db77c9e024835342afa1dcc780537[m
+Merge: 6d4fcbf a53455c
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:33:22 2020 +0530
+
+    Merge pull request #233 from Deepika9782/patch-1
+    
+    Create Leapyear.py
+
+[33mcommit 6d4fcbf35a75200f9b7ece4cc35eb333fdf19b90[m
+Merge: d7a9544 845ffd2
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:32:44 2020 +0530
+
+    Merge pull request #232 from glbdhananjaya/master
+    
+    added responsive comtact form
+
+[33mcommit 845ffd2d6f58655fcf5bf1321de6387f059948de[m
+Merge: 0b1acd0 d7a9544
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:32:34 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 33b45835d6c2da4b8d2bd9330ddf39f57a74f580[m
+Merge: 804235f d6f6873
+Author: Andrey Nagorny <grizzly-terror@yandex.ru>
+Date:   Mon Oct 5 22:02:12 2020 +0300
+
+    Merge branch 'master' into master
+
+[33mcommit d7a95449d517d40bf22601ae937a3b9fc7c747c2[m
+Merge: d6f6873 7c9a5c6
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:31:54 2020 +0530
+
+    Merge pull request #231 from rithik56/master
+    
+    Digits Classification with TF
+
+[33mcommit d6f68739035bebfb4cf17d781c4cd7da45149626[m
+Merge: bad3a9d d04ba38
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:31:42 2020 +0530
+
+    Merge pull request #230 from naman-150200/patch-1
+    
+    Create bubblesort.java
+
+[33mcommit bad3a9dd730229ed29abe186b82ccc7ea852afb6[m
+Merge: 064fdfe d1c5d13
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:31:32 2020 +0530
+
+    Merge pull request #229 from imadityatiwari/master
+    
+    Update sub2no.py
+
+[33mcommit 804235fcfbd78673146bcc2a7b460d48fc4610e4[m
+Merge: cef4c80 27aeba3
+Author: Andrey Nagorny <grizzly-terror@yandex.ru>
+Date:   Mon Oct 5 22:01:28 2020 +0300
+
+    Merge branch 'master' into master
+
+[33mcommit 064fdfe566a1e15b7c380709ecc6c725522349fe[m
+Merge: 0a5ad9f 031cc58
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:31:21 2020 +0530
+
+    Merge pull request #228 from rithik56/master
+    
+    MNIST digits classification with TF
+
+[33mcommit 0a5ad9fa454d92674908eb9d4e13f9c7cc9120fb[m
+Merge: ea529da 4815f3a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:31:09 2020 +0530
+
+    Merge pull request #227 from DSubhajit-Dey/patch-1
+    
+    Generating Password and OTP in Java
+
+[33mcommit ea529dafd144bd28482f0c4265b2a3ddb545db6c[m
+Merge: f7cb403 910d928
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:30:55 2020 +0530
+
+    Merge pull request #226 from goel28priyanshu/master
+    
+    Hashing Concept
+
+[33mcommit f7cb403274bb7b35e2cf6e61a0cf73237a374431[m
+Merge: 27aeba3 47cedf8
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:30:44 2020 +0530
+
+    Merge pull request #225 from Harsh2801/master
+    
+    Update README.md
+
+[33mcommit 47cedf8e6e4c56b33e487c75fc72d787b5778eeb[m
+Merge: 5acc466 27aeba3
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:30:29 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 27aeba3b02d67c43d7fb9185d03a33b6830953b1[m
+Merge: e95bcf8 00bfd19
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:29:06 2020 +0530
+
+    Merge pull request #224 from harshgaud2918/master
+    
+    Create MyNotePad.java
+
+[33mcommit e95bcf8ccfd7b2e82f47c05f6184233867ea5f79[m
+Merge: 25855cd f1d4931
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:28:55 2020 +0530
+
+    Merge pull request #223 from rajdeep-ghosh/dev
+    
+    Create FizzBuzz program in Python
+
+[33mcommit cef4c80ad499e8399a51c7601898d5f4cb164273[m
+Author: Andrey Nagorny <grizzly-terror@yandex.ru>
+Date:   Mon Oct 5 21:58:19 2020 +0300
+
+    Add HammingWeight.java
+
+[33mcommit 25855cdb46397432946acd35b20bbe0e4f5a43db[m
+Merge: c9af530 e0cf9fb
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:28:10 2020 +0530
+
+    Merge pull request #221 from DragoPhoenix/master
+    
+    Added Name in Readme File and added a file checks_on_number.cpp
+
+[33mcommit e0cf9fb2faa063c80aa59e8aa37fdb375352ed91[m
+Merge: c598c71 c9af530
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:27:59 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit c9af530884121b9c3d51d15272935483872cf012[m
+Merge: 8b11e81 54ca0e5
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:27:19 2020 +0530
+
+    Merge pull request #219 from muskanbhardwaj7126/patch-1
+    
+    SelectionSort
+
+[33mcommit 8b11e81f590c74bcc5a9e876ae374f3fda955ccd[m
+Merge: 1583f03 7ed1249
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:27:07 2020 +0530
+
+    Merge pull request #218 from sushma23github/master
+    
+    quicksorting.cpp
+
+[33mcommit 1583f03847efd49e70272fa2030f35e310b04dde[m
+Merge: fefe87e 835ae8c
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:26:57 2020 +0530
+
+    Merge pull request #217 from Ravi007Teja/patch-2
+    
+    datacleaning2
+
+[33mcommit fefe87e400344bc3f51587c8bbf1643de2d6fcf3[m
+Merge: 144a178 378cd29
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:26:45 2020 +0530
+
+    Merge pull request #216 from Ravi007Teja/patch-1
+    
+    uniqVal
+
+[33mcommit 144a178fb2c2d3a7a8af5f9fd71dbed4e8998b22[m
+Merge: 9891666 50ddc17
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:26:33 2020 +0530
+
+    Merge pull request #215 from harshagrawal2412/master
+    
+    Create Diagonal_Difference.cpp
+
+[33mcommit c9d3d79cb188a804d5e8757aca514fa56dd70eba[m
+Author: Andrey Nagorny <grizzly-terror@yandex.ru>
+Date:   Mon Oct 5 21:56:29 2020 +0300
+
+    Update README.md
+
+[33mcommit 9891666b406521eb5ab23980cc38921921635dc0[m
+Merge: c927188 304a265
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:26:23 2020 +0530
+
+    Merge pull request #213 from itsrahulhere/master
+    
+    towerOfHanoi
+
+[33mcommit c9271881548dc08922431d613ab0ae8c9e9a5655[m
+Merge: c09d610 af50bb5
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:26:12 2020 +0530
+
+    Merge pull request #212 from itsrahulhere/patch-1
+    
+    Update README.md
+
+[33mcommit af50bb54bc459ba48b7f9ea1c38992f77b4d20d9[m
+Merge: 671d406 c09d610
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:26:02 2020 +0530
+
+    Merge branch 'master' into patch-1
+
+[33mcommit c09d61009386631ad82f673f7dd18ae874a4dcee[m
+Merge: f219eae 44bd9ce
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:25:28 2020 +0530
+
+    Merge pull request #211 from ashgpta/master
+    
+    Pattern Program in Python
+
+[33mcommit f219eae1081f4328a2d709e2da696b3f3d8c0cb6[m
+Merge: e008b56 f2599d8
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:24:39 2020 +0530
+
+    Merge pull request #210 from sgshines/master
+    
+    Update Bubble_Sort.cpp
+
+[33mcommit e008b564ddfc8d6a50fde02b6960e4010ac1d540[m
+Merge: 7332250 57b75df
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:23:56 2020 +0530
+
+    Merge pull request #209 from mastermanav09/master
+    
+    Added STL C++
+
+[33mcommit 73322502cc915ea47a0390eed8191228f9d9fe05[m
+Merge: 057a52b 4ee8080
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:23:44 2020 +0530
+
+    Merge pull request #208 from Anooppandikashala/master
+    
+    Changed README.md and added new file
+
+[33mcommit 4ee808007f888365d1c6329241c7329641cfef4b[m
+Merge: a0c9b8a 057a52b
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:23:34 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 057a52bb0708221c1294ef2bba4b24cae2f9987c[m
+Merge: 4f88540 9972edc
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:22:42 2020 +0530
+
+    Merge pull request #206 from venkata-sreeram/patch-1
+    
+    Created URL-Shortner.py
+
+[33mcommit 4f885403129da2297c05e2cd43de67bb583c6806[m
+Merge: 6af9767 8841a50
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:22:30 2020 +0530
+
+    Merge pull request #205 from venkata-sreeram/master
+    
+    Added a LUDO game in Java
+
+[33mcommit 8841a502f6299631382e8abbe4b6056e78c36691[m
+Merge: 9bc180b 6af9767
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:22:14 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 6af976737ef79eb8e6227dda55e707ca380c225d[m
+Merge: bc82a77 7fac07b
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:21:34 2020 +0530
+
+    Merge pull request #204 from Str4nge/Strange
+    
+    Added simple java program
+
+[33mcommit 7fac07b23137e22a73729b027660706c021f9846[m
+Merge: d94e13f bc82a77
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:21:26 2020 +0530
+
+    Merge branch 'master' into Strange
+
+[33mcommit bc82a77d1c903d2854c7235ac4061f8c9b4dab6f[m
+Merge: aed2bfc ad53786
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:20:47 2020 +0530
+
+    Merge pull request #203 from mandarw21/master
+    
+    Adding LinkedList in Python
+
+[33mcommit aed2bfc12c5731d014dd9a32de462a40fe55a517[m
+Merge: 221bcd2 6cd5af9
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:20:33 2020 +0530
+
+    Merge pull request #202 from SimonaMS/prime1
+    
+    Added PrimeTest.java
+
+[33mcommit 6cd5af99438689a1f11187c97b9284cca8802494[m
+Merge: c1558eb 221bcd2
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:20:15 2020 +0530
+
+    Merge branch 'master' into prime1
+
+[33mcommit 221bcd2c10804ae4d6cc39c25124c726d3ad0a0e[m
+Merge: cac7f7f 9ad25ee
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:19:26 2020 +0530
+
+    Merge pull request #201 from sanidhya3340/patch-1
+    
+    Create appleandorange.cpp
+
+[33mcommit cac7f7fe89c575eccb425db3f3929fd163eff6c6[m
+Merge: 2c35642 c414e86
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:18:44 2020 +0530
+
+    Merge pull request #200 from kushgulati033/master
+    
+    Update README.md
+
+[33mcommit 2c35642127818c1f815a9df9c7cc399a3d8b1452[m
+Merge: cb453b7 a40d138
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:18:23 2020 +0530
+
+    Merge pull request #199 from murapalasravani/master
+    
+    Create bubble sort in python
+
+[33mcommit cb453b7b1a31afd2cfa8009ffc150c9e4b24bd00[m
+Merge: 8ffc06c 0d92b20
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:18:05 2020 +0530
+
+    Merge pull request #198 from rushi-173/patch-1
+    
+    Create CI.cpp
+
+[33mcommit 8ffc06c2303b1e4b9d9cddb4f122ff817917b00d[m
+Merge: 3520338 861a328
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:17:49 2020 +0530
+
+    Merge pull request #197 from tarunsingh7379/master
+    
+    Binary to Decimal.c
+
+[33mcommit 352033867afe18f9652960ca5e5b5b81439d5e28[m
+Merge: bf0c14a 0c25429
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:17:35 2020 +0530
+
+    Merge pull request #196 from NeerajSinghNk/master
+    
+    ArrayManupulation.java
+
+[33mcommit 0c25429e94b80a7045f1bb645e8294cfe4953290[m
+Merge: 3bc8221 bf0c14a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:17:25 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit bf0c14a34787a0fdc0cfd6b5cd98cb07f26e38d5[m
+Merge: 90dade5 bb288a4
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:16:48 2020 +0530
+
+    Merge pull request #195 from fharookshaik/master
+    
+    Added fibonacci series upto 'n' terms in cpp language
+
+[33mcommit 90dade5c5e52df3d5b1df20ff5f9b08459e1ab16[m
+Merge: e8eefad dc2ac05
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:11:43 2020 +0530
+
+    Merge pull request #193 from PriyavKaneria/master
+    
+    Added fibonacci term calculator using DP
+
+[33mcommit e8eefad1d954bde7ad31c31f81377348791106dc[m
+Merge: 0cb0221 ae0a815
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:11:29 2020 +0530
+
+    Merge pull request #192 from mahijain21/master
+    
+    adding info how to contribute in steps
+
+[33mcommit ae0a815f501b8febe129a48beee146eacc46430f[m
+Merge: 8464224 0cb0221
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:11:18 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 0cb0221b1672b4f7dcb9bc2c8093ea4e52bf476b[m
+Merge: 32cca20 a1b8a18
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:10:44 2020 +0530
+
+    Merge pull request #191 from yashc9602/patch-1
+    
+    Update README.md
+
+[33mcommit a1b8a18c06dcac5973093540eeef0b966a000de9[m
+Merge: e53eafd 32cca20
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:10:37 2020 +0530
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 32cca20cacaf8f6e7407d3fa91c032a9b47c694c[m
+Merge: d38b6d7 3fa57ae
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:10:01 2020 +0530
+
+    Merge pull request #190 from romaiajr/master
+    
+    Add Graph and Vertex for Dijkstra Algorithm
+
+[33mcommit 3fa57aebab3dd922648f78b3adad349b141a902b[m
+Merge: 68ad312 d38b6d7
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:09:52 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit d38b6d79b1b513e7bb7b65936dc35d5c9d4f7ce2[m
+Merge: 0a89001 6455c7f
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:07:59 2020 +0530
+
+    Merge pull request #188 from CapAsdour/master
+    
+    insert sort
+
+[33mcommit 6455c7f1a640b330786f621683a03430597df701[m
+Merge: e919f26 0a89001
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:07:37 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 0a8900128a46ef88007f476fa79a574d931110df[m
+Merge: dd3770f 474789c
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:07:00 2020 +0530
+
+    Merge pull request #187 from Yg12061998/patch-1
+    
+    Update README.md
+
+[33mcommit 474789c2c73942cfe4e69981524074158d2ab1b7[m
+Merge: b7cf0e3 dd3770f
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:06:51 2020 +0530
+
+    Merge branch 'master' into patch-1
+
+[33mcommit dd3770fc29cfeeab0c85b2468c5d865c5617d380[m
+Merge: fe4b26a 66328ff
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:06:21 2020 +0530
+
+    Merge pull request #186 from AmanDesai10/master
+    
+    Added Credit Card Validator
+
+[33mcommit 66328ff07a12a00cd2ec3b6c75bf238af0ac82dd[m
+Merge: 3d25f42 fe4b26a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:06:11 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit fe4b26adf196a35d9de272a3786d2ca9d3f4591f[m
+Merge: bccbf74 665745a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:05:37 2020 +0530
+
+    Merge pull request #185 from yasharthratan/master
+    
+    Python sorting algo added and readme updated
+
+[33mcommit 665745a2d56d8ae22026176930e36f4af935ac1d[m
+Merge: 0bb8f78 bccbf74
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:05:27 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit bccbf74aed5d43ce5cd74a4e94bc7fb0da8bb50b[m
+Merge: cf91da3 c9367f4
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:04:52 2020 +0530
+
+    Merge pull request #184 from sainirohan27/patch-1
+    
+    created a Python program to display the Fibonacci sequence
+
+[33mcommit cf91da3a5ec88de387957ced32bc39ced6c5395d[m
+Merge: 0de1461 7826c7a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:03:52 2020 +0530
+
+    Merge pull request #183 from aayushishere/patch-1
+    
+    Create threadingpython.py
+
+[33mcommit 0de1461930fe99f873807ffc97748f25f3004eee[m
+Merge: f334937 3a6e821
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:02:33 2020 +0530
+
+    Merge pull request #182 from Bhagyasri1310/master
+    
+    Create Palindrome.c
+
+[33mcommit f3349372761caa62c95b8b4bcc058cc7be8df7f8[m
+Merge: d5058c1 31624fc
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:01:22 2020 +0530
+
+    Merge pull request #181 from sainirohan27/master
+    
+    Update factorial.cpp
+
+[33mcommit d5058c1913efa8b69af44eac7068e35ec70c4912[m
+Merge: e649688 04d8eb5
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:00:46 2020 +0530
+
+    Merge pull request #180 from Kiranmai1106/master
+    
+    Created index using html
+
+[33mcommit e649688608a5476698b0b986f6e98903a5be08f0[m
+Merge: 219bf34 2291355
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:00:28 2020 +0530
+
+    Merge pull request #179 from Aliex-dev/patch-1
+    
+    Update README.md
+
+[33mcommit 229135503da8e9bf6eabd47906eba2b8db4a012b[m
+Merge: 5d58733 219bf34
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 6 00:00:17 2020 +0530
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 219bf34d627afa6e73409e3e8352da36523fc0c1[m
+Merge: b415502 64cc6d5
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:59:32 2020 +0530
+
+    Merge pull request #178 from iayushguptaaa/master
+    
+    Contribution in Hacktoberfest
+
+[33mcommit 64cc6d57dd74590bb30c1f9b2c74c6a07ee4c0c7[m
+Merge: 3fa0d2f b415502
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:59:24 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit b41550207d1d454ac082ffd8d1c2fd0fca07de33[m
+Merge: ba5ccbf 9e4f465
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:58:47 2020 +0530
+
+    Merge pull request #177 from sakship1920/master
+    
+    one file added
+
+[33mcommit ba5ccbfa9fc6ba3e372ff81afcdd40db4a9c0eb9[m
+Merge: 1e0a4cf b9a038e
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:58:34 2020 +0530
+
+    Merge pull request #176 from Kumar-mulekar/master
+    
+    Updated readme
+
+[33mcommit b9a038e6691fa23ed22b2d2430b23af960b1367f[m
+Merge: 47112d3 1e0a4cf
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:58:25 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 1e0a4cf101f5fe692beb533e631315c0cc57391b[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:56:50 2020 +0530
+
+    Update README.md
+
+[33mcommit 151ac4e01ee4307c2e34740374dc319bdd830749[m
+Merge: 98a248b dfcd271
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:54:58 2020 +0530
+
+    Merge pull request #172 from beingpraveenverma/master
+    
+    Check The Changes
+
+[33mcommit dfcd271b4af1f1aff90154a4adb5e9bae6faacf7[m
+Merge: 47dca4c 98a248b
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:54:49 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 98a248b0e2a1c2218e11877fc19115530ba0a079[m
+Merge: d3ed1e3 801ecf9
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:53:13 2020 +0530
+
+    Merge pull request #164 from dheerajvenugopal96/dcoder-branch
+    
+    Added decorators in python file
+
+[33mcommit 801ecf94f19039a7230777b731f2bf9e79296789[m
+Merge: 28c7840 d3ed1e3
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:52:55 2020 +0530
+
+    Merge branch 'master' into dcoder-branch
+
+[33mcommit d3ed1e307e8b746e12be3c9b23b7435783814c7f[m
+Merge: 044acf6 08016d0
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:51:05 2020 +0530
+
+    Merge pull request #125 from atyant-yadav/atyant-yadav-patch-4
+    
+    Update README.md
+
+[33mcommit 08016d05d47cdf037e2a99e8fbfa9583c944a6d3[m
+Merge: 809a8bd 044acf6
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:50:53 2020 +0530
+
+    Merge branch 'master' into atyant-yadav-patch-4
+
+[33mcommit 044acf67c2a28cd5ff0365629484093fcc4a5210[m
+Merge: 2088405 cd90b6f
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:47:37 2020 +0530
+
+    Merge pull request #123 from arushsaxena/master
+    
+    Add files via upload
+
+[33mcommit 2088405ae63bebe9eb9150ffa9318d6099224ac4[m
+Merge: bce94b4 2ef163a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:46:57 2020 +0530
+
+    Merge pull request #113 from DPrinceKumar/master
+    
+    added mine name
+
+[33mcommit 2ef163abd7b936a9d5d99571118925b4a02304e3[m
+Merge: f4b6df1 bce94b4
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:46:41 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit bce94b49445960b692d7c1a913aa26b6959936c4[m
+Merge: 3ef7ec2 42295ba
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:43:32 2020 +0530
+
+    Merge pull request #117 from DPrinceKumar/patch-2
+    
+    remove comment from include
+
+[33mcommit 3ef7ec238435a2cbd4e6b3896b7fd3ce775465f3[m
+Merge: 55ca611 b444272
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:43:10 2020 +0530
+
+    Merge pull request #114 from prakash912/master
+    
+    Improve Docs
+
+[33mcommit b4442728af09c3d458cf65a89346aa63ccd5cfd5[m
+Merge: 99df4f2 55ca611
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Mon Oct 5 23:42:54 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 3b49c2a6152e8b13acce6a0f86a2c5a859013657[m
+Author: Hritik Pandey <57009672+hritikpnd24@users.noreply.github.com>
+Date:   Mon Oct 5 23:40:20 2020 +0530
+
+    Update README.md
+
+[33mcommit 001ca215b1180bd9f58bea604fec7eb1520718ec[m
+Author: Enrico <56918333+EnryBarto@users.noreply.github.com>
+Date:   Mon Oct 5 19:20:43 2020 +0200
+
+    Update calculator.c
+
+[33mcommit adcbe44ba85c8a35d79b41c324d7cfb305a20b79[m
+Author: EnryBarto <enrico.bartocetti@gmail.com>
+Date:   Mon Oct 5 19:15:39 2020 +0200
+
+    Added calculator.c
+
+[33mcommit d8f7edb3ce11eb7f747aa589c04b955b6caf9499[m
+Author: Aditya kumar <Kumadi2018@users.noreply.github.com>
+Date:   Mon Oct 5 19:53:27 2020 +0530
+
+    Update binarytree.c
+    
+    added comments to describe the function more clearly
+
+[33mcommit 3073b4f1c11ab929029c08800375778dea05f7b1[m
+Author: Shubham Soni <43661889+ss2808@users.noreply.github.com>
+Date:   Mon Oct 5 19:20:48 2020 +0530
+
+    Update MergeSort.java
+    
+    I have just reduced the number of lines of code by making changes in post-increment variables.
+
+[33mcommit 9afbbdc80292ccb515a031a97ce3b26e4770a5d4[m
+Author: puspraj jaiswal <puspraj.indian@outlook.com>
+Date:   Mon Oct 5 18:54:34 2020 +0530
+
+    added trie data structure in c++
+
+[33mcommit 27b2910f8b9af46bbe858f31a81d72245dc95509[m
+Author: puspraj jaiswal <puspraj.indian@outlook.com>
+Date:   Mon Oct 5 18:51:25 2020 +0530
+
+    additional change in binary search
+
+[33mcommit a53455c061ff143058835ccb6903662566c0fee2[m
+Author: Deepika9782 <72295947+Deepika9782@users.noreply.github.com>
+Date:   Mon Oct 5 18:50:38 2020 +0530
+
+    Create Leapyear.py
+
+[33mcommit 0b1acd00be48d88f869a5091227135406ddd9ec3[m
+Author: Bhashitha Dhananjaya <44166845+glbdhananjaya@users.noreply.github.com>
+Date:   Mon Oct 5 16:59:55 2020 +0530
+
+    added responsive comtact form
+
+[33mcommit 7c9a5c6f6a58f10f0b2cfea8880eb3bfdbaa7118[m
+Author: rithik56 <70520896+rithik56@users.noreply.github.com>
+Date:   Mon Oct 5 14:48:22 2020 +0530
+
+    Digits Classification with TF
+
+[33mcommit d04ba38a1bf1185354812b14232a00b0418c71d5[m
+Author: codefreak_123 <43454359+naman-150200@users.noreply.github.com>
+Date:   Mon Oct 5 14:35:23 2020 +0530
+
+    Create bubb;esort.java
+
+[33mcommit d1c5d13f0363c3f5dd2999c14b533945e5f3254d[m
+Author: Aditya Kumar Tiwari <72155406+imadityatiwari@users.noreply.github.com>
+Date:   Mon Oct 5 14:03:42 2020 +0530
+
+    Update sub2no.py
+
+[33mcommit 031cc58baf9a02cb6ee7036fd53e2abe5ca280ba[m
+Author: rithik56 <70520896+rithik56@users.noreply.github.com>
+Date:   Mon Oct 5 12:48:34 2020 +0530
+
+    MNIST digits classification with TF
+
+[33mcommit 4815f3a9247bf8480cd57b45fd98b3bd71bd40a1[m
+Author: DSubhajit-Dey <69747319+DSubhajit-Dey@users.noreply.github.com>
+Date:   Mon Oct 5 11:42:42 2020 +0530
+
+    Generating Password and OTP in Java
+    
+    Many a time we forget our passwords and we opt for Forget password option and within no time we get a new password at our registered email-ID or phone no. to login our account. And every time we get a different password.
+    Sometimes we access our bank accounts while shopping from an online store or many more ways, in order to verify our transition from the bank account, they send us OTP(One Time Password) on our registered phone no. or our email-ID, within no time.
+    
+    The following code explains how to generate such Passwords and OTP within no time and what code we can use if in case we need to do so.
+
+[33mcommit 910d9287d780015f1f8b784e4026587f9d9fe0aa[m
+Author: PRIYANSHU GOEL <goelpriyanshu99@gmail.com>
+Date:   Mon Oct 5 11:14:24 2020 +0530
+
+    Hashing Concept
+    
+    Added Open Addressing program
+
+[33mcommit 5acc4665d3f015ed1b05e89c9a555259af6a1bda[m
+Author: Harsh2801 <55402521+Harsh2801@users.noreply.github.com>
+Date:   Mon Oct 5 11:04:05 2020 +0530
+
+    Update README.md
+
+[33mcommit 00bfd19b15a9bb88e91def698d5bfa76af152943[m
+Author: harshgaud2918 <54628284+harshgaud2918@users.noreply.github.com>
+Date:   Mon Oct 5 09:51:36 2020 +0530
+
+    Create MyNotePad.java
+
+[33mcommit f1d493166ede67b5eddbcc90fc5289ccb65c3f7b[m
+Author: Rajdeep Ghosh <rajdeepghosh810@gmail.com>
+Date:   Mon Oct 5 05:32:44 2020 +0530
+
+    Create FizzBuzz program in Python
+
+[33mcommit c598c712197ae8a86b6d0298f01cf00351b60579[m
+Author: Aniket Shukla <aniketshukla3553@gmail.com>
+Date:   Mon Oct 5 01:14:50 2020 +0530
+
+    Add Name in Readme File and added a file checks_on_number.cpp
+
+[33mcommit f2599d8e8d063f9507e7a88e95f602f65b997dde[m
+Author: Sagar Sharma <57283639+sgshines@users.noreply.github.com>
+Date:   Mon Oct 5 00:30:52 2020 +0530
+
+    Add files via upload
+
+[33mcommit 54ca0e508aee1581eeaea15707b2fd78f74f6a08[m
+Author: muskanbhardwaj7126 <44150141+muskanbhardwaj7126@users.noreply.github.com>
+Date:   Sun Oct 4 23:36:03 2020 +0530
+
+    Selectionsort
+    
+    Hacktoberfest2020
+    Algorithm to implement selection sort on the array
+
+[33mcommit 7ed1249c759269e97650dae1c3a7a6aefe7cfd59[m
+Author: Sushma palli <69786123+sushma23github@users.noreply.github.com>
+Date:   Sun Oct 4 22:35:10 2020 +0530
+
+    Create quicksorting.cpp
+
+[33mcommit 835ae8c12a9172471cce5d89b0d4e8aa41119c5d[m
+Author: Ravi007Teja <ravi007teja.rt@gmail.com>
+Date:   Sun Oct 4 22:34:27 2020 +0530
+
+    datacleaning2
+
+[33mcommit 50ddc170940616e68dbeea6472b24b5849ed31fc[m
+Author: Harsh Agrawal <harshagrawal.dhn@gmail.com>
+Date:   Sun Oct 4 22:32:17 2020 +0530
+
+    Create Diagonal_Difference.cpp
+
+[33mcommit 378cd296f1a29ce55a058b3965bcafaacebb5225[m
+Author: Ravi007Teja <ravi007teja.rt@gmail.com>
+Date:   Sun Oct 4 22:31:47 2020 +0530
+
+    uniqVal
+
+[33mcommit 17efe26ae43b9ef6013af41206a4a1b4db51bcb3[m
+Author: Sushma palli <69786123+sushma23github@users.noreply.github.com>
+Date:   Sun Oct 4 22:30:20 2020 +0530
+
+    Create quicksort.cpp
+
+[33mcommit 304a2658e00c9860d8fa6e7aed7809ecc86ab50a[m
+Merge: 55ca611 673b126
+Author: itsrahulhere <50038276+itsrahulhere@users.noreply.github.com>
+Date:   Sun Oct 4 21:43:08 2020 +0530
+
+    Merge pull request #1 from itsrahulhere/itsrahulhere-patch-1
+    
+    towerOfHanoi
+
+[33mcommit 673b126d148efed0d8660a20d5a07b6a4bc03c75[m
+Author: itsrahulhere <50038276+itsrahulhere@users.noreply.github.com>
+Date:   Sun Oct 4 21:42:53 2020 +0530
+
+    towerOfHanoi
+
+[33mcommit 671d4068dab173837c1d2140f53cf8abfa624ab1[m
+Author: itsrahulhere <50038276+itsrahulhere@users.noreply.github.com>
+Date:   Sun Oct 4 21:38:22 2020 +0530
+
+    Update README.md
+
+[33mcommit 44bd9ce87cf80913819bf61c306133fbd418d6bb[m
+Author: ashgpta <66237411+ashgpta@users.noreply.github.com>
+Date:   Sun Oct 4 20:22:40 2020 +0530
+
+    Pattern Program in Python
+    
+    # Python 3.x code to demonstrate star pattern
+    
+    Output-
+    
+    *
+    * *
+    * * *
+    * * * *
+    * * * * *
+
+[33mcommit 76e67b2e358907392ca74d455557685e1d98af64[m
+Author: Sagar Sharma <57283639+sgshines@users.noreply.github.com>
+Date:   Sun Oct 4 20:01:36 2020 +0530
+
+    Update Bubble_Sort.cpp
+
+[33mcommit 57b75df20b0a355ddb493f24ddc9ef414e7ed404[m
+Author: mastermanav09 <manavnaharwalp@gmail.com>
+Date:   Sun Oct 4 19:43:11 2020 +0530
+
+    Added STL C++
+
+[33mcommit a0c9b8a1fcd24bfeb2ea396c58b2d2c99c0c6b8e[m
+Author: anoopp <anooppandikashala@gmail.com>
+Date:   Sun Oct 4 19:08:57 2020 +0530
+
+    Changed README.md and added new file
+
+[33mcommit 55ca6117142f63401c931fdfef6f1f3b736a667d[m
+Merge: 0cd0969 82c4b1a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sun Oct 4 18:34:47 2020 +0530
+
+    Merge pull request #207 from vrii14/master
+    
+    Added multithreading program in C clock_thread.c
+
+[33mcommit 82c4b1a52ab60e0ef120548164ad95c497f5b0d8[m
+Author: Vrinda Ahuja <vvahuja2000@gmail.com>
+Date:   Sun Oct 4 18:29:15 2020 +0530
+
+    Added multithreading program in C clock_thread.c
+
+[33mcommit 9bc180bf40b04437be4c7e6bb3a605e867372885[m
+Author: Venkata Sreeram <62790398+venkata-sreeram@users.noreply.github.com>
+Date:   Sun Oct 4 18:10:17 2020 +0530
+
+    Youtube-Downloader
+
+[33mcommit 9972edc872eea5f8cb87302cc9a3e87e547ea224[m
+Author: Venkata Sreeram <62790398+venkata-sreeram@users.noreply.github.com>
+Date:   Sun Oct 4 18:04:34 2020 +0530
+
+    Create URL-Shortner.py
+
+[33mcommit ca3513ef8b7a0834eaf9447b0c9b342eab49a86c[m
+Author: Venkata Sreeram <62790398+venkata-sreeram@users.noreply.github.com>
+Date:   Sun Oct 4 18:01:16 2020 +0530
+
+    Added my name ( Venkata Sreeram )
+
+[33mcommit bd5d5c46d44a88e4aaa628de1b033b67da16f72f[m
+Author: Venkata Sreeram <62790398+venkata-sreeram@users.noreply.github.com>
+Date:   Sun Oct 4 18:00:34 2020 +0530
+
+    Added LUDO game in JAVA
+
+[33mcommit d94e13f66eb301ba9cd9df47868c212574b28409[m
+Author: Str4nge <code.amines@gmail.com>
+Date:   Sun Oct 4 16:53:42 2020 +0530
+
+    Added simple java program
+
+[33mcommit ad53786cc68d596af498a91646dc10730def9290[m
+Author: Mandar Wadnerkar <34623812+mandarw21@users.noreply.github.com>
+Date:   Sun Oct 4 16:15:28 2020 +0530
+
+    Adding LinkedList in Python
+
+[33mcommit c1558ebf515bd76536f8d3efa2b9c75c74ffeb26[m
+Author: SimonaMS <59412956+SimonaMS@users.noreply.github.com>
+Date:   Sun Oct 4 12:29:02 2020 +0200
+
+    Updated README.md
+
+[33mcommit bb14b22be35f1fcadf73b26f4c6ab7a50f6abe88[m
+Author: SimonaMS <59412956+SimonaMS@users.noreply.github.com>
+Date:   Sun Oct 4 12:27:29 2020 +0200
+
+    Added PrimeTest.java
+
+[33mcommit 9ad25eed8b08466928dd011a04aa54254dc59185[m
+Author: Sanidhya Bhardwaj <56787487+sanidhya3340@users.noreply.github.com>
+Date:   Sun Oct 4 15:52:40 2020 +0530
+
+    Create appleandorange.cpp
+
+[33mcommit c414e86133dc0b4999146392c2beecf7eea10de2[m
+Author: kushgulati033 <72138821+kushgulati033@users.noreply.github.com>
+Date:   Sun Oct 4 03:03:44 2020 -0700
+
+    Update README.md
+
+[33mcommit a40d138373d64b72eda8021af3d8961ccdcfd57b[m
+Author: murapalasravani <71930126+murapalasravani@users.noreply.github.com>
+Date:   Sun Oct 4 10:47:34 2020 +0100
+
+    Create bubble sort in python
+
+[33mcommit 0d92b2089514127a72f5b2f2c0b7cc79d1b22f3f[m
+Author: Rushikesh Chaudhari <rushichaudhari1237@gmail.com>
+Date:   Sun Oct 4 14:53:38 2020 +0530
+
+    Create CI.cpp
+
+[33mcommit 861a328bf2ecebf2543fca21b130b61bf8e4c2a2[m
+Author: tarunsingh7379 <72147696+tarunsingh7379@users.noreply.github.com>
+Date:   Sun Oct 4 14:05:28 2020 +0530
+
+    Binary to Decimal.c
+    
+    Program for converting a Binary number into Decimal number using C language
+
+[33mcommit 3bc82216b4f43e2b8fccaa8c99f1e2febd2ae4a5[m
+Author: NeerajSinghNk <50374978+NeerajSinghNk@users.noreply.github.com>
+Date:   Sun Oct 4 13:05:00 2020 +0530
+
+    Update README.md
+
+[33mcommit 18cbbec53a499b7d398e5c371b9cbb8ea9c4a04e[m
+Author: NeerajSinghNk <50374978+NeerajSinghNk@users.noreply.github.com>
+Date:   Sun Oct 4 13:04:11 2020 +0530
+
+    Create ArrayManupulation.java
+
+[33mcommit bb288a4cc36dddbe8f7070b90b4154c490865ce0[m
+Author: fharook shaik <fharookshaik.5@gmail.com>
+Date:   Sun Oct 4 12:06:55 2020 +0530
+
+    Added fibonacci series upto 'n' terms in cpp language
+
+[33mcommit 846422414bbedcaa065dedc44c53db3b85cc994e[m
+Author: mahijain21 <72240593+mahijain21@users.noreply.github.com>
+Date:   Sun Oct 4 12:00:57 2020 +0530
+
+    Create age scanner using java
+
+[33mcommit dc2ac053c500ab86a4784e9341111b68f9ccbba2[m
+Author: Priyav K Kaneria <43821039+PriyavKaneria@users.noreply.github.com>
+Date:   Sun Oct 4 09:45:18 2020 +0530
+
+    Added fibonacci term calculator using DP
+    
+    Dynamic programming approach for finding nth term of fibonacci
+
+[33mcommit cb0e3770e0a8df7755df4e4bbf97f8794636f3e5[m
+Author: mahijain21 <72240593+mahijain21@users.noreply.github.com>
+Date:   Sun Oct 4 09:36:16 2020 +0530
+
+    adding info how to contribute in steps
+    
+    i added few steps and also contributed by writing my name
+
+[33mcommit e53eafd62722220df4b6cb9cbe01c1d275b0fdbc[m
+Author: yashc9602 <65076660+yashc9602@users.noreply.github.com>
+Date:   Sun Oct 4 09:13:50 2020 +0530
+
+    Update README.md
+
+[33mcommit 68ad31263a5f11f3a296ac6063af58bf908c9de0[m
+Author: Roberto Maia <romaia.uefs@gmail.com>
+Date:   Sat Oct 3 20:18:17 2020 -0300
+
+    Grafo e Vertice
+
+[33mcommit e919f2615921939ad045bebfeab207afb662c1d6[m
+Author: Asit Kumar <49069830+CapAsdour@users.noreply.github.com>
+Date:   Sun Oct 4 02:32:06 2020 +0530
+
+    insert sort
+
+[33mcommit b2da48235013ee4f432a9c4c23118a720be652b7[m
+Author: Asit Kumar <49069830+CapAsdour@users.noreply.github.com>
+Date:   Sun Oct 4 02:31:03 2020 +0530
+
+    Update README.md
+
+[33mcommit b7cf0e38db9f34d1ca2fb14c8822a7713ee5edd9[m
+Author: Yogesh Gupta <Yogesh8435661391@gmail.com>
+Date:   Sun Oct 4 01:49:37 2020 +0530
+
+    Update README.md
+
+[33mcommit 3d25f42793ee813df6f756d1c4b4f23dcec3f343[m
+Author: Aman Desai <55056475+AmanDesai10@users.noreply.github.com>
+Date:   Sun Oct 4 00:45:58 2020 +0530
+
+    Update README.md
+
+[33mcommit 8af36e3384a7c031c9ffaa9f2565d63027872d38[m
+Author: Aman Desai <55056475+AmanDesai10@users.noreply.github.com>
+Date:   Sun Oct 4 00:44:18 2020 +0530
+
+    Added Credit Card Validator
+
+[33mcommit 0bb8f78fa4b24777b08c650bdfe9003751a037fe[m
+Merge: 9e893c6 e5efc76
+Author: yasharthratan <yasharthtripathi@gmail.com>
+Date:   Sat Oct 3 21:39:07 2020 +0530
+
+    Merge branch 'master' of https://github.com/yasharthratan/Hactoberfest2020
+
+[33mcommit 9e893c64e8d28a619c246a079fdfeb8d53b7f2d9[m
+Author: yasharthratan <yasharthtripathi@gmail.com>
+Date:   Sat Oct 3 21:38:21 2020 +0530
+
+    Python sorting algo added
+
+[33mcommit e5efc762840e2a691884d8f072072b3569eb56e0[m
+Author: Yasharth Tripathi <yasharthtripathi@gmail.com>
+Date:   Sat Oct 3 21:37:30 2020 +0530
+
+    Name added
+
+[33mcommit c9367f401b85a8dda448481325f0a28a98e1c21c[m
+Author: ROHAN SAINI <46782299+sainirohan27@users.noreply.github.com>
+Date:   Sat Oct 3 21:08:34 2020 +0530
+
+    created a Python program to display the Fibonacci sequence
+    
+    Do add this file to your repository if you find it useful.
+
+[33mcommit 7826c7a20b2d9730e64daca7860e0f49121637f3[m
+Author: Aayush Singh <aayushsingh2203@gmail.com>
+Date:   Sat Oct 3 08:31:52 2020 -0700
+
+    Create threadingpython.py
+
+[33mcommit 3a6e8214484dea18f6e835f5f1690a87d546def5[m
+Author: Bhagyasri1310 <71930084+Bhagyasri1310@users.noreply.github.com>
+Date:   Sat Oct 3 20:47:07 2020 +0530
+
+    Create Palindrome.c
+
+[33mcommit 31624fc8b18ec74a008f0be2870c7d7fb9e27d3f[m
+Author: ROHAN SAINI <46782299+sainirohan27@users.noreply.github.com>
+Date:   Sat Oct 3 20:42:55 2020 +0530
+
+    Update factorial.cpp
+    
+    Added a descriptive line for the code.
+
+[33mcommit 04d8eb5dd7e082b89685643414d9bc318e3fda89[m
+Author: Kiranmai1106 <71929885+Kiranmai1106@users.noreply.github.com>
+Date:   Sat Oct 3 20:29:00 2020 +0530
+
+    Create index.html
+
+[33mcommit 5d587338206ef3f5fac0924eea49c6cf955181e0[m
+Author: Aliex-dev <samalarijit.01@gmail.com>
+Date:   Sat Oct 3 19:47:45 2020 +0530
+
+    Update README.md
+    
+    added name
+
+[33mcommit 3fa0d2f3de7a47795ef447c61750fa59b1f8c83c[m
+Author: Ayush Gupta <57136524+iayushguptaaa@users.noreply.github.com>
+Date:   Sat Oct 3 19:10:54 2020 +0530
+
+    Add files via upload
+
+[33mcommit 8869ce1333dac80c8f3aae84f7e5249b26e92997[m
+Author: Ayush Gupta <57136524+iayushguptaaa@users.noreply.github.com>
+Date:   Sat Oct 3 19:09:58 2020 +0530
+
+    Create LinkedList.java
+
+[33mcommit a1c9cc503317c3ed7f765da3a760d85c6ebcf801[m
+Author: Ayush Gupta <57136524+iayushguptaaa@users.noreply.github.com>
+Date:   Sat Oct 3 19:08:29 2020 +0530
+
+    Update README.md
+
+[33mcommit 9e4f465ee99c49c9d1f5c3b30cdeaf5b8b8d6211[m
+Author: sakship1920 <64771223+sakship1920@users.noreply.github.com>
+Date:   Sat Oct 3 17:10:55 2020 +0530
+
+    one file added
+
+[33mcommit 47112d39316b2a8b0e652208d0c88b41a58f656d[m
+Author: Kumar-mulekar <58255558+Kumar-mulekar@users.noreply.github.com>
+Date:   Sat Oct 3 16:35:07 2020 +0530
+
+    Create bucketSort.cpp
+
+[33mcommit 87b47d3aa2f4484a97924058745f9fbdc47117f5[m
+Author: Kumar-mulekar <58255558+Kumar-mulekar@users.noreply.github.com>
+Date:   Sat Oct 3 16:32:28 2020 +0530
+
+    Update README.md
+
+[33mcommit 0cd0969217b83ff76fa8dc9de132828dac2e35fb[m
+Merge: 5898179 da09e34
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 15:49:36 2020 +0530
+
+    Merge pull request #175 from goldenryu2000/master
+    
+    Added MergeSort for Java
+
+[33mcommit 58981794c66974bd225db26a0f981e03def62996[m
+Merge: c3ea874 09c586f
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 15:49:15 2020 +0530
+
+    Merge pull request #174 from Tsapusova/patch-1
+    
+    Update README.md
+
+[33mcommit da09e3497bec554eea7db74a3ffe767439507dbc[m
+Author: Nishant Sharma <goldenryu2000@gmail.com>
+Date:   Sat Oct 3 15:48:34 2020 +0530
+
+    Removed a redundant program
+
+[33mcommit 013f517963d93a2cece062fead7029fe87c536f5[m
+Author: Nishant Sharma <goldenryu2000@gmail.com>
+Date:   Sat Oct 3 15:47:34 2020 +0530
+
+    Added Anagram Program for Java
+
+[33mcommit 05748a6451b9f3390ee0e57474cb5d277ea4c23c[m
+Author: Nishant Sharma <goldenryu2000@gmail.com>
+Date:   Sat Oct 3 15:46:00 2020 +0530
+
+    Added MergeSort for Java
+
+[33mcommit 09c586f20ecdc17cdb378f6ea87b374f946eed71[m
+Author: Tsapusova <56797783+Tsapusova@users.noreply.github.com>
+Date:   Sat Oct 3 13:05:08 2020 +0300
+
+    Update README.md
+
+[33mcommit c3ea8744ecf18c0d2858438a8ddc9a8fa494b331[m
+Merge: a00d80f 1056a0f
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 15:22:17 2020 +0530
+
+    Merge pull request #173 from gaurav-312/master
+    
+    Create and display the nodes of Link List
+
+[33mcommit 1056a0f09eaad031a56928becf416423d29cc8e6[m
+Author: gaurav-312 <72292857+gaurav-312@users.noreply.github.com>
+Date:   Sat Oct 3 15:19:52 2020 +0530
+
+    Create and display the nodes of Link List
+
+[33mcommit 47dca4cba5eb06c2fa9cb74ae7abfad26b550f00[m
+Author: beingpraveenverma <49922138+beingpraveenverma@users.noreply.github.com>
+Date:   Sat Oct 3 14:47:05 2020 +0530
+
+    Update README.md
+    
+    Name Added
+
+[33mcommit ffba810a21ad98d89ba48725fef66bac91c5a497[m
+Author: beingpraveenverma <49922138+beingpraveenverma@users.noreply.github.com>
+Date:   Sat Oct 3 14:45:52 2020 +0530
+
+    Added Program for finding 3 palindrome in a string
+    
+    This was one of the questions asked in TCS codes vita
+
+[33mcommit a00d80ff3a8ddc057cb6e35b02905739c69f3082[m
+Merge: 363ca6b f38c8d3
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 14:43:47 2020 +0530
+
+    Merge pull request #171 from rajdeep-ghosh/dev
+    
+    Add name in README
+
+[33mcommit f38c8d3b4060105720d5922dfd29f427e754d477[m
+Merge: 07112e0 363ca6b
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 14:43:36 2020 +0530
+
+    Merge branch 'master' into dev
+
+[33mcommit 363ca6b683b700ab142442df33bafa8a9bd6a628[m
+Merge: cf63251 b6e03c2
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 14:35:20 2020 +0530
+
+    Merge pull request #170 from Puruchandra/patch-1
+    
+    Update README.md
+
+[33mcommit b6e03c27c41003d9659168ea6828fdf654ad3436[m
+Author: Puruchandra <puruchandra4@gmail.com>
+Date:   Sat Oct 3 14:32:38 2020 +0530
+
+    Update README.md
+    
+    Added my name
+
+[33mcommit 07112e02be99060aa2136d2d92515f6e755c7adb[m
+Author: Rajdeep Ghosh <rajdeepghosh810@gmail.com>
+Date:   Sat Oct 3 14:25:58 2020 +0530
+
+    Update README
+
+[33mcommit cf63251d80be3711781836ae4a14577ecf99ef48[m
+Merge: 0525a98 795d009
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 14:11:56 2020 +0530
+
+    Merge pull request #169 from MehtaAkshita/master
+    
+    Added the math-python way
+
+[33mcommit 795d009e167e36307b60b4ff5101ddf477fb0aaf[m
+Author: Akshita Mehta <44060710+MehtaAkshita@users.noreply.github.com>
+Date:   Sat Oct 3 14:10:28 2020 +0530
+
+    Update README.md
+
+[33mcommit fed170abc9c7f28026d51b63f2de597a12b4d458[m
+Author: Akshita Mehta <44060710+MehtaAkshita@users.noreply.github.com>
+Date:   Sat Oct 3 14:09:55 2020 +0530
+
+    The math-python way
+
+[33mcommit 0525a98a3f6e7467a1a6d3f138ef7b32eca55e09[m
+Merge: af8d576 e93a92c
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 14:04:55 2020 +0530
+
+    Merge pull request #168 from rajdeep-ghosh/dev
+    
+    Create Selection Sort and Bubble Sort programs in C++
+
+[33mcommit af8d576ec0c9cb07db702368bcd7a2233fd86228[m
+Merge: 78ed532 d9ac4f0
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 14:04:34 2020 +0530
+
+    Merge pull request #167 from Rronny01/master
+    
+    Update last line
+
+[33mcommit e93a92cb94f4bfe0336f6b66d2c9287c7acb6390[m
+Author: Rajdeep Ghosh <rajdeepghosh810@gmail.com>
+Date:   Sat Oct 3 13:45:58 2020 +0530
+
+    Create Selection Sort and Bubble Sort programs in C++
+
+[33mcommit d9ac4f06593f79370c6db09f55dda0829712ab86[m
+Author: Rronny01 <72240947+Rronny01@users.noreply.github.com>
+Date:   Sat Oct 3 13:38:48 2020 +0530
+
+    Update last line
+
+[33mcommit 78ed532dbaebac0cac4c7c23a0c76039afc555d7[m
+Merge: 1f3621e fc3466b
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 13:37:30 2020 +0530
+
+    Merge pull request #166 from Rronny01/patch-1
+    
+    Update last line
+
+[33mcommit fc3466b5de3121c67a6180d7b0c83e9ed31f090e[m
+Author: Rronny01 <72240947+Rronny01@users.noreply.github.com>
+Date:   Sat Oct 3 13:36:24 2020 +0530
+
+    Update last line
+
+[33mcommit 1f3621e461fc6f6fbaea1261f8fba43652730734[m
+Merge: e0c6592 29280c7
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 13:29:20 2020 +0530
+
+    Merge pull request #165 from Kunalmehta99/master
+    
+    Tower of hanoi (c++)
+
+[33mcommit 29280c731d6fbae6f80240f4d2092c2e72962aa2[m
+Author: Kunalmehta99 <46202013+Kunalmehta99@users.noreply.github.com>
+Date:   Sat Oct 3 13:27:12 2020 +0530
+
+    Tower of Hanoi
+    
+    A very famous problem solved using Recursion
+
+[33mcommit 256069ad822448e7a466fec8b653fdde2241824a[m
+Author: Kunalmehta99 <46202013+Kunalmehta99@users.noreply.github.com>
+Date:   Sat Oct 3 13:17:11 2020 +0530
+
+    Update README.md
+
+[33mcommit 28c78407603b437ee06e5ffc087ef15ba3a90af4[m
+Author: unknown <dheerajvenugopal96@gmail.com>
+Date:   Sat Oct 3 12:59:26 2020 +0530
+
+    Added decorators in python file
+
+[33mcommit e0c6592f1ec43adf1e8ea6368a2fc5a509b80de7[m
+Merge: ae9bc1b 32b2cf3
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 12:59:13 2020 +0530
+
+    Merge pull request #163 from chinmaydas96/master
+    
+    Update README.md
+
+[33mcommit ae9bc1b105181e7a11501cc984344417f0e44ca4[m
+Merge: 759ad6d 2a9ce11
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 12:55:48 2020 +0530
+
+    Merge pull request #162 from ROhit123614/patch-1
+    
+    Create Binary sorting in java
+
+[33mcommit 32b2cf3e3c812994e428a746aaec947734c55031[m
+Author: chinmay Das <chinmaydasbat@gmail.com>
+Date:   Sat Oct 3 12:55:25 2020 +0530
+
+    Update README.md
+
+[33mcommit 2a9ce11b138121267516ec2bc1fbcc2a50b3ffcb[m
+Author: ROhit123614 <53163601+ROhit123614@users.noreply.github.com>
+Date:   Sat Oct 3 12:40:53 2020 +0530
+
+    Create Binary sorting in java
+    
+    Hope you will merge this it will give help to open source repositories and me as well thanku
+
+[33mcommit 759ad6d04a332914188468b45aff89528eb892bf[m
+Merge: 252023e c1b214f
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 12:01:42 2020 +0530
+
+    Merge pull request #161 from listout/java_multi_thread
+    
+    multi thread java example added
+
+[33mcommit 252023e57211a35eff3acc36840e78c3e2570002[m
+Merge: c7a6208 9f7170d
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 12:01:20 2020 +0530
+
+    Merge pull request #160 from AbhishekVarshney98/master
+    
+    Add files via upload
+
+[33mcommit c7a6208f41f5385c41e834bb4c644085a7e13f97[m
+Merge: 0e6760f 9e061b8
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 12:00:55 2020 +0530
+
+    Merge pull request #159 from LoisChoji/palindrome
+    
+    palindrome.py
+
+[33mcommit 0e6760f01028f1036888becb24545d5b56c8f540[m
+Merge: e0417ae bbcce7e
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 12:00:33 2020 +0530
+
+    Merge pull request #158 from Daalb/BubbleSort
+    
+    BubbleSort Python
+
+[33mcommit bbcce7e69a7b1eacdb768ebed10ff1a9918ea0c1[m
+Merge: 56c5c4e e0417ae
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 12:00:26 2020 +0530
+
+    Merge branch 'master' into BubbleSort
+
+[33mcommit c1b214f582461ea5e196caf46012b6ec4c668069[m
+Author: listout <noctura23@protonmail.com>
+Date:   Sat Oct 3 11:59:22 2020 +0530
+
+    multi thread java example added
+
+[33mcommit e0417aea08e9ec2b888cc843047f0e6d706df67f[m
+Merge: 582d5ae 2d56bd5
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 11:59:14 2020 +0530
+
+    Merge pull request #157 from mehulaswar06/patch-2
+    
+    Update README.md
+
+[33mcommit 582d5aeeb3da8d2243c35a6a1ec75f2256baa4c5[m
+Merge: c2a1d7a e4e94b1
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 11:58:50 2020 +0530
+
+    Merge pull request #156 from mehulaswar06/patch-1
+    
+    Multiplication Table Generator
+
+[33mcommit c2a1d7a50c07b2a3bd5580bce4b85edb2d177dcd[m
+Merge: 09cddca f5297eb
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 11:58:23 2020 +0530
+
+    Merge pull request #155 from gowtham-shankar341/patch-2
+    
+    Download json object from browser
+
+[33mcommit 09cddca26189a8c15fb9bafe117531a0760626a6[m
+Merge: 2bc93bb c648243
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 11:58:05 2020 +0530
+
+    Merge pull request #154 from gowtham-shankar341/patch-1
+    
+    Download generated text
+
+[33mcommit 2bc93bb66d95304d036a8fca35d7004121efaae4[m
+Merge: ba86959 7452b3c
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 11:57:42 2020 +0530
+
+    Merge pull request #153 from AMANGAUD2000/master
+    
+    Create binarytree.c
+
+[33mcommit 9f7170d2534f516b98194248a78eddc30dff47e5[m
+Author: AbhishekVarshney98 <41852265+AbhishekVarshney98@users.noreply.github.com>
+Date:   Sat Oct 3 11:13:37 2020 +0530
+
+    Add files via upload
+
+[33mcommit 9e061b8f4b63289b2267ef084dd8c074f8dfbab0[m
+Author: Lois Choji <loischo594@gmail.com>
+Date:   Fri Oct 2 23:14:58 2020 +0100
+
+    palindrome.py
+
+[33mcommit 56c5c4e941a60d99dea5ba0f81089c5b3a0a87aa[m
+Author: Daalb <daalbor@uninorte.edu.co>
+Date:   Fri Oct 2 16:17:33 2020 -0500
+
+    BubbleSort Python
+
+[33mcommit 2d56bd5a4cb9bd319d25bf3fd56c75bd3fa5b81a[m
+Author: Mehul Aswar <64181009+mehulaswar06@users.noreply.github.com>
+Date:   Sat Oct 3 02:22:43 2020 +0530
+
+    Update README.md
+    
+    Added name
+
+[33mcommit f5297ebd39f381d3dbc1b2bcbd72a8d0e3da679d[m
+Author: gowtham-shankar341 <gowthamshankar93@yahoo.in>
+Date:   Sat Oct 3 02:17:47 2020 +0530
+
+    Download json object from browser
+
+[33mcommit e4e94b119ce27ad92f42c248fd5a13f9fae972c3[m
+Author: Mehul Aswar <64181009+mehulaswar06@users.noreply.github.com>
+Date:   Sat Oct 3 02:16:57 2020 +0530
+
+    Multiplication Table Generator
+    
+    Made the code more understandable and good looking. Also added name for this file.
+
+[33mcommit c648243b0a53ca2b73559613f4f9dcf68fa979c6[m
+Author: gowtham-shankar341 <gowthamshankar93@yahoo.in>
+Date:   Sat Oct 3 02:14:45 2020 +0530
+
+    Download generated text
+
+[33mcommit 7452b3c8317a52b68623cc6fa9ef4fe1e187e059[m
+Author: AMANGAUD2000 <55031923+AMANGAUD2000@users.noreply.github.com>
+Date:   Sat Oct 3 01:35:21 2020 +0530
+
+    Create binarytree.c
+
+[33mcommit ba86959f5204e499e5263a62eedc223b0e4b21e4[m
+Merge: bd2037b e08e5ae
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 01:09:12 2020 +0530
+
+    Merge pull request #152 from mastermanav09/master
+    
+    Added a library Management System
+
+[33mcommit e08e5aedb4f4a3d740dd88751ef334480b440ae4[m
+Author: mastermanav09 <manavnaharwalp@gmail.com>
+Date:   Sat Oct 3 01:01:38 2020 +0530
+
+    Added a library Management System
+
+[33mcommit bd2037bfce0a5bcf89eefc75ab83477792e3c1f6[m
+Merge: f6839d1 8764645
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 00:43:18 2020 +0530
+
+    Merge pull request #151 from jnamrani/master
+    
+    README-edits
+
+[33mcommit 87646450569e6b029f94adea737973bfb742c3c0[m
+Merge: f6839d1 ed0f3b2
+Author: Jayant Namrani <jnamrani@outlook.com>
+Date:   Sat Oct 3 00:38:58 2020 +0530
+
+    Merge pull request #1 from jnamrani/README-edits
+    
+    Update README.md
+
+[33mcommit ed0f3b27bf54c046c75eeec90c7cedd8ba1caed6[m
+Author: Jayant Namrani <jnamrani@outlook.com>
+Date:   Sat Oct 3 00:36:10 2020 +0530
+
+    Update README.md
+    
+    Changed the title from "Hactoberfest2019" to "Hactoberfest2020". Same sort of modification was carried out in line number 8 as well. :smiley:
+
+[33mcommit f6839d1682606d527085fc23e2007ed80e164a6b[m
+Merge: ff7ee81 195ab65
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 3 00:17:40 2020 +0530
+
+    Merge pull request #150 from GoGi2712/newbie
+    
+    Update README.md file and Adding new programs
+
+[33mcommit 195ab658c74c4dab1ab1b19e85d7047674e9da71[m
+Author: Ankita Mandal <Ankita Mandal>
+Date:   Sat Oct 3 00:14:13 2020 +0530
+
+    Added Recursion program in the language cpp
+
+[33mcommit 5d9a598e56593fcf6401e0aa7f95463d8e052702[m
+Author: Ankita Mandal <Ankita Mandal>
+Date:   Sat Oct 3 00:09:43 2020 +0530
+
+    Update README.md file and Adding new solution
+
+[33mcommit ff7ee8129dfe41643706d21884e7d5d5f6f55bcf[m
+Merge: 0e2a638 30156eb
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 23:55:19 2020 +0530
+
+    Merge pull request #149 from addddd123/app1
+    
+    App1
+
+[33mcommit 30156ebeacdad27c0d92e6b80085881e356f5a21[m
+Merge: 6c8e86b 0e2a638
+Author: Adnan abdullah <38535226+addddd123@users.noreply.github.com>
+Date:   Fri Oct 2 23:45:40 2020 +0530
+
+    Merge branch 'master' into app1
+
+[33mcommit 6c8e86bd8725d861dcd8646c18961adb2b985a98[m
+Author: addddd123 <adshe886@gmail.com>
+Date:   Fri Oct 2 23:42:34 2020 +0530
+
+    table
+
+[33mcommit febcec2942ac6eea189f924805002add67262610[m
+Author: addddd123 <adshe886@gmail.com>
+Date:   Fri Oct 2 23:39:04 2020 +0530
+
+    added table
+
+[33mcommit 0e2a638f73ed4b72ee992ec9c6a689e2348da149[m
+Merge: 66d1bed 57588c9
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 22:03:08 2020 +0530
+
+    Merge pull request #147 from saneenKP/master
+    
+    update Readme.md
+
+[33mcommit 66d1bed9cefba0502ab78c5c7a083bfc479804c8[m
+Merge: bafb663 504e8fa
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 22:01:52 2020 +0530
+
+    Merge pull request #146 from saurabhtopthon01/master
+    
+    mergesort.cpp
+
+[33mcommit 57588c9eda9543c2701497723346d4da0afce0d9[m
+Author: saneenKP <61053433+saneenKP@users.noreply.github.com>
+Date:   Fri Oct 2 22:00:51 2020 +0530
+
+    update Readme.md
+
+[33mcommit 504e8fae2334dd6bba58c098e4ef8c7db44de25d[m
+Author: Saurabh Kumar singh <55596640+saurabhtopthon01@users.noreply.github.com>
+Date:   Fri Oct 2 22:00:42 2020 +0530
+
+    Create mergesort.cpp
+
+[33mcommit bafb663c11dc775548416f11b2127f6d26d3fab8[m
+Merge: 459e76f 180885a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 20:30:24 2020 +0530
+
+    Merge pull request #145 from ShubhamRaj07/master
+    
+    added name
+
+[33mcommit 180885afecf4af657205cf5baf012168de3d8fc0[m
+Author: ShubhamRaj07 <71963532+ShubhamRaj07@users.noreply.github.com>
+Date:   Fri Oct 2 20:26:59 2020 +0530
+
+    Update README.md
+
+[33mcommit 213392d32bc06063fedfb4c1312c07e51ef39efe[m
+Author: ShubhamRaj07 <71963532+ShubhamRaj07@users.noreply.github.com>
+Date:   Fri Oct 2 20:26:08 2020 +0530
+
+    added name
+
+[33mcommit 459e76f82ae63402b28bbfcfcae2ff723e6e552c[m
+Merge: 44fe544 b186100
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 19:57:54 2020 +0530
+
+    Merge pull request #144 from bikramkharal/master
+    
+    Update README.md
+
+[33mcommit b186100a19c596b1a5033efab4c2a736127731aa[m
+Author: Bikram kharal <53949692+bikramkharal@users.noreply.github.com>
+Date:   Fri Oct 2 20:09:28 2020 +0545
+
+    Update README.md
+
+[33mcommit 44fe54417270a0f002e5198ca1d7d1b7ccfe29f4[m
+Merge: a93db8c d1f0842
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 18:48:24 2020 +0530
+
+    Merge pull request #143 from pranavannam2805/master
+    
+    Added a cryptographic Algorithm , S-DES in java
+
+[33mcommit d1f08420ffd12f2f038d3a73a8cf9b2ac5223e30[m
+Author: PranavAnnam <pranavannam@gmail.com>
+Date:   Fri Oct 2 18:45:54 2020 +0530
+
+    Added a cryptographic Algorithm , S-DES in java
+
+[33mcommit a93db8c07a56a8812e68d90fe4c081b39dfef636[m
+Merge: 664a138 da22347
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 18:27:40 2020 +0530
+
+    Merge pull request #142 from yashraj383/master
+    
+    Create mst using kruskal .cpp
+
+[33mcommit da223476f1c426e222df6256f6c6795bcde7c9fa[m
+Author: yashraj383 <56976932+yashraj383@users.noreply.github.com>
+Date:   Fri Oct 2 18:25:15 2020 +0530
+
+    Create mst using kruskal .cpp
+
+[33mcommit 664a138b8d4526fe4b96734dafc51b63718fdced[m
+Merge: a95f0be 2756bbd
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:56:12 2020 +0530
+
+    Merge pull request #101 from garima10p/master
+    
+    Update README.md
+
+[33mcommit 2756bbdbae580aa5d590868111cb1f1a745ea837[m
+Merge: 8df9d9f a95f0be
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:56:00 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit a95f0be732562b4211d16988db2ef6bfde641f30[m
+Merge: f73749e d054b2d
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:48:59 2020 +0530
+
+    Merge pull request #102 from prashanty/patch-2
+    
+    bst_check created
+
+[33mcommit f73749e09a09caee0a85a30105f6c2ffe2dff973[m
+Merge: 5e023a6 424f15e
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:47:09 2020 +0530
+
+    Merge pull request #116 from DPrinceKumar/patch-1
+    
+    Update sub2no.py
+
+[33mcommit 5e023a6ec5c8587b58652983a925e63b216dc937[m
+Merge: d1869a1 3a0ce2a
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:46:01 2020 +0530
+
+    Merge pull request #120 from addddd123/tempo
+    
+    updated readme and added flask webgui desktop app
+
+[33mcommit 3a0ce2a6f0b064b02f665c4b4074d8803244a507[m
+Merge: 3443e80 d1869a1
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:45:51 2020 +0530
+
+    Merge branch 'master' into tempo
+
+[33mcommit d1869a111dce2c86a50b0e0748b94a5c510094c5[m
+Merge: 8649f3c db988a4
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:44:46 2020 +0530
+
+    Merge pull request #126 from Tanuja651/master
+    
+    Create primenumber.py
+
+[33mcommit 8649f3ca3c998c4f1e785a4957c1c80cbc814fe8[m
+Merge: 049e6ee 87638b3
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:43:15 2020 +0530
+
+    Merge pull request #118 from rahulchaudhary2244/rahulchaudhary2244-patch-1
+    
+    Binary Search
+
+[33mcommit 049e6eedf46f50e8e26090f14ef74f29a4cdc862[m
+Merge: 3376f87 13bbaef
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:42:53 2020 +0530
+
+    Merge pull request #119 from Guna-777/master
+    
+    round
+
+[33mcommit 3376f878c35059d6aa59bf4c82c1a266ad4833a8[m
+Merge: 21981e7 b8a00ea
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:42:28 2020 +0530
+
+    Merge pull request #128 from manish-109/master
+    
+    README.md
+
+[33mcommit b8a00ea8cbacf45b67004a44ba23281732639dee[m
+Merge: 927032a 21981e7
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:42:17 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 21981e76e5a7a07636144290c61caaf14d0a4317[m
+Merge: 310b5d9 1f6a599
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:40:13 2020 +0530
+
+    Merge pull request #130 from shivesh947/master
+    
+    shivesh add name in README file
+
+[33mcommit 1f6a59983bf2034a75bc0b32ea1f2a73c445216f[m
+Merge: 213c53a 310b5d9
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:40:00 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit 310b5d9843702a35cb1fdecb9aebffd881d0b1fc[m
+Merge: ae13235 a8bd90b
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:37:40 2020 +0530
+
+    Merge pull request #131 from smokkie087/master
+    
+    Update README.md
+
+[33mcommit a8bd90bbf7e0284026cd7face8d1119ff3a568fe[m
+Merge: ddab9f9 ae13235
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:37:30 2020 +0530
+
+    Merge branch 'master' into master
+
+[33mcommit ae132354ad616c265fb072b75f6e2fdf507d48a2[m
+Merge: 72a92f5 0c212ee
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:34:42 2020 +0530
+
+    Merge pull request #129 from manish-109/patch-1
+    
+    Trapping_rain_water.cpp
+
+[33mcommit 72a92f59daf23c9829d897e8c8fc4df4b7e07298[m
+Merge: 85e338d 232eb99
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:34:23 2020 +0530
+
+    Merge pull request #132 from rushi-173/master
+    
+    create factorial.cpp
+
+[33mcommit 85e338de144a8983e2f374456e68d885d6325766[m
+Merge: 84e76b5 97c8a81
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:33:58 2020 +0530
+
+    Merge pull request #134 from HBDAshu/patch-1
+    
+    Update README.md
+
+[33mcommit 97c8a81c56a47b61ddccdc91bdf97f864e7195da[m
+Merge: b40bd0c 84e76b5
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:33:30 2020 +0530
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 84e76b5228fe182e51efa41296dd4566b27106bc[m
+Merge: a4f5a5b 6144494
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:26:28 2020 +0530
+
+    Merge pull request #141 from Shakthi-Dhar/master
+    
+    Made the code more read able
+
+[33mcommit a4f5a5bc7fa7c6bcc402a853985521157fe89bcc[m
+Merge: 9957288 c3ca2c6
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:25:46 2020 +0530
+
+    Merge pull request #140 from arrnavvv/patch-1
+    
+    Create Sound.cs
+
+[33mcommit 99572880661d6a29af910f327089db48ca5b7473[m
+Merge: bd3c118 858b5ed
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:24:31 2020 +0530
+
+    Merge pull request #133 from vish35/master
+    
+    egg_dropping_puzzle(DP).cpp
+
+[33mcommit 6144494fd1953abb5a467311989377342dffa363[m
+Author: K Shakthi Dhar Reddy <55318956+Shakthi-Dhar@users.noreply.github.com>
+Date:   Fri Oct 2 17:24:29 2020 +0530
+
+    Made the code more read able
+
+[33mcommit c3ca2c65bae13ed617be8c1dba53d6c4fd5e41dc[m
+Author: arrnavvv <61576354+arrnavvv@users.noreply.github.com>
+Date:   Fri Oct 2 17:23:46 2020 +0530
+
+    Create Sound.cs
+
+[33mcommit bd3c1184fd439f0fa17c4baddf2446a36d3fefd9[m
+Merge: f96def5 0533282
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:23:27 2020 +0530
+
+    Merge pull request #135 from aabha-Jain/patch-1
+    
+    Create radixsort
+
+[33mcommit f96def5ab42f4f9b742f6798c32c53442d73b760[m
+Merge: bfe6838 290d136
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:19:53 2020 +0530
+
+    Merge pull request #136 from hersheey/master
+    
+    Create staircase_problem.cpp
+
+[33mcommit bfe6838c5d221dc01067eab43dfb9fd816dfde37[m
+Merge: 61abc06 925ae3f
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:19:29 2020 +0530
+
+    Merge pull request #137 from bhuvi1114/patch-1
+    
+    Update README.md
+
+[33mcommit 925ae3f01f28cf8a94b308745475f1641299673f[m
+Merge: 6d36438 61abc06
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:19:10 2020 +0530
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 61abc06c4f868bdfa0f909cebba84dc2aa04dee0[m
+Merge: f373b2b 4484341
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:17:26 2020 +0530
+
+    Merge pull request #138 from arrnavvv/master
+    
+    Update README.md
+
+[33mcommit f373b2b405512a5b17f8fc7ac0f61a5f7babc884[m
+Merge: 06aaf1a 5459b5b
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 17:16:00 2020 +0530
+
+    Merge pull request #139 from Bigdrea6/patch-1
+    
+    Update README.md
+
+[33mcommit 5459b5b4c54c70a72940d5068961a3001f727aa4[m
+Author: Bigdrea6 <56348847+Bigdrea6@users.noreply.github.com>
+Date:   Fri Oct 2 20:30:35 2020 +0900
+
+    Update README.md
+
+[33mcommit 44843415e5df39a12043f4328995ea421b06f7e3[m
+Author: arrnavvv <61576354+arrnavvv@users.noreply.github.com>
+Date:   Fri Oct 2 16:26:53 2020 +0530
+
+    Update README.md
+
+[33mcommit 6d36438fb34b332a796d743e543935432e194201[m
+Author: BHUVNESH KUMAR PRADHAN <43566501+bhuvi1114@users.noreply.github.com>
+Date:   Fri Oct 2 16:09:59 2020 +0530
+
+    Update README.md
+
+[33mcommit 290d13608589d78434041b7709eee31131523593[m
+Author: hersheey <72225658+hersheey@users.noreply.github.com>
+Date:   Fri Oct 2 16:05:10 2020 +0530
+
+    Create staircase_problem.cpp
+
+[33mcommit 053328284ea7a613b97ad1dd710687ceaa18e0e9[m
+Author: aabha-Jain <43947725+aabha-Jain@users.noreply.github.com>
+Date:   Fri Oct 2 13:56:52 2020 +0530
+
+    Create radixsort
+
+[33mcommit b40bd0cb82229dba7485accd3a2ac656ac443c9b[m
+Author: HBDAshu <61987378+HBDAshu@users.noreply.github.com>
+Date:   Fri Oct 2 13:49:16 2020 +0530
+
+    Update README.md
+
+[33mcommit 858b5ed44df99a47a9622a5f19b6167d67b6d29b[m
+Author: vishakha <vishakhakarimungi@gmail.com>
+Date:   Fri Oct 2 13:33:55 2020 +0530
+
+    egg_dropping_puzzle(DP).cpp
+    
+    egg dropping puzzle using dynamic programming
+
+[33mcommit 232eb991f9bf075f27190da37e085849db83487f[m
+Author: Rushikesh Chaudhari <rushichaudhari1237@gmail.com>
+Date:   Fri Oct 2 12:52:51 2020 +0530
+
+    create factorial.cpp
+    
+    adding new program
+
+[33mcommit ddab9f950426a594b823b8b3efdd60a34a6cdf96[m
+Author: smokkie087 <71905000+smokkie087@users.noreply.github.com>
+Date:   Fri Oct 2 00:12:19 2020 -0700
+
+    Update README.md
+
+[33mcommit 213c53a6b2eac381b92b7b53bdc42e405c3ea5fd[m
+Author: Shivesh Gupta <42131203+shivesh947@users.noreply.github.com>
+Date:   Fri Oct 2 11:18:51 2020 +0530
+
+    shivesh add name in README file
+
+[33mcommit 0c212ee894d1ecc2520e1b8b64200037b96a5f5a[m
+Author: manish kumar savita <manishsavita109@gmail.com>
+Date:   Fri Oct 2 11:17:25 2020 +0530
+
+    Create Trapping_rain_water.cpp
+
+[33mcommit 927032a00542b86bfd444e0841a69f4284a57dfe[m
+Author: manish kumar savita <manishsavita109@gmail.com>
+Date:   Fri Oct 2 11:11:36 2020 +0530
+
+    Update README.md
+
+[33mcommit db988a450cda12650760e60eaca60f1d8598db34[m
+Author: Tanuja651 <71929989+Tanuja651@users.noreply.github.com>
+Date:   Fri Oct 2 11:05:36 2020 +0530
+
+    Create primenumber.py
+
+[33mcommit 809a8bd7ced197195c5fd7156cc8672373d319ac[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 04:03:09 2020 +0530
+
+    Update README.md
+
+[33mcommit 06aaf1ab03411291a18507149cc2bad9a79b9a1c[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 03:41:24 2020 +0530
+
+    Update README.md
+
+[33mcommit 0b17882848c80e9e8c976d83b8582eeff70e614b[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 03:32:04 2020 +0530
+
+    Update README.md
+
+[33mcommit e1d367fc0160fe412eabbb6628990ac9dfec05df[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 2 03:25:25 2020 +0530
+
+    Update README.md
+
+[33mcommit 3443e80eab1bc73e24a4d09bc36aac19d731cd10[m
+Author: addddd123 <adshe886@gmail.com>
+Date:   Thu Oct 1 22:11:15 2020 +0530
+
+    updated readme and added flask webgui desktop app
+
+[33mcommit 13bbaefb837053520faa5df4f277ca4f7dc59273[m
+Author: Gunashree C <55580701+Guna-777@users.noreply.github.com>
+Date:   Thu Oct 1 20:07:38 2020 +0530
+
+    Add files via upload
+
+[33mcommit 87638b34e9aa11a8e31273ec8cb9ba8231258c53[m
+Author: rahulchaudhary2244 <54467972+rahulchaudhary2244@users.noreply.github.com>
+Date:   Thu Oct 1 16:52:14 2020 +0530
+
+    Binary Search
+    
+    Recursive Binary Search
+
+[33mcommit 42295baf034d63b3daf8e6a6e181347ccba687e6[m
+Author: Prince Kumar <prince2kumar4147@gmail.com>
+Date:   Thu Oct 1 16:18:17 2020 +0530
+
+    remove comment from include
+
+[33mcommit 424f15eb2a923df7fc5416b4121055acede34529[m
+Author: Prince Kumar <prince2kumar4147@gmail.com>
+Date:   Thu Oct 1 16:16:04 2020 +0530
+
+    Update sub2no.py
+
+[33mcommit 99df4f288eb26a8aa7e541850da054d0c79101f5[m
+Author: prakash912 <56366662+prakash912@users.noreply.github.com>
+Date:   Thu Oct 1 12:55:35 2020 +0530
+
+    Update README.md
+
+[33mcommit f4b6df1d6a0e2312eed46871b1f004c57f87b155[m
+Author: Prince Kumar <prince2kumar4147@gmail.com>
+Date:   Thu Oct 1 11:00:21 2020 +0530
+
+    added names in input
+
+[33mcommit ab6626657e0d5afb9dbe631df0d4467a7c5579a8[m
+Author: Prince Kumar <prince2kumar4147@gmail.com>
+Date:   Thu Oct 1 10:37:05 2020 +0530
+
+    added mine name
+
+[33mcommit d054b2da0ebab00ade4bea622f90ee4e5605f766[m
+Author: prashanty <prashant.py93@gmail.com>
+Date:   Mon Oct 28 10:25:43 2019 +0530
+
+    bst_check created
+
+[33mcommit 8df9d9f0ca89d682f6af6eae4a711f06de5358d7[m
+Author: Garima <garimaarora.ga2@gmail.com>
+Date:   Sun Oct 27 13:47:26 2019 +0530
+
+    Update sub2no.py
+
+[33mcommit 9436cc350852f537b813ee7299cd1724a71779c0[m
+Author: Garima <garimaarora.ga2@gmail.com>
+Date:   Sun Oct 27 13:45:31 2019 +0530
+
+    Update sub2no.py
+
+[33mcommit d09ed22dd82bd04a1bd49928106a0bf3c8ca2d63[m
+Author: Garima <garimaarora.ga2@gmail.com>
+Date:   Sun Oct 27 13:39:13 2019 +0530
+
+    Update README.md
+
+[33mcommit 1905c6174a7c8f2e3dac8a4b63bffee52c1e3d03[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 12 14:23:12 2019 +0530
+
+    Update README.md
+
+[33mcommit 51517e2b86c0415fac1ad07a90be5f08471e47a1[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 12 01:10:53 2019 +0530
+
+    Update README.md
+
+[33mcommit 5d011a25bf8438bea1b62b9ce5b99dc04fb862ed[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 12 01:09:04 2019 +0530
+
+    Update README.md
+
+[33mcommit f05bfd279c253da7266a1a3db8d19730e344a15a[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 12 01:07:06 2019 +0530
+
+    Update README.md
+
+[33mcommit 5a40e4773dfb81ceb66a6a1edfceff3398d4907c[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Sat Oct 5 07:43:46 2019 +0530
+
+    Update README.md
+
+[33mcommit cd90b6ffbe53baab59a80234f00bf8994a5cba83[m
+Author: arushsaxena <36010578+arushsaxena@users.noreply.github.com>
+Date:   Fri Oct 4 21:34:04 2019 +0530
+
+    Add files via upload
+
+[33mcommit 0abb711b2b33e21215c0f77c2061cf992b99f6bd[m
+Merge: 0a5806e 6ec0c1f
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Fri Oct 4 21:32:09 2019 +0530
+
+    Merge pull request #9 from arushsaxena/master
+    
+    Coin Change DP
+
+[33mcommit 6ec0c1fef604435c4421351adabfc46aab706e1f[m
+Author: arushsaxena <36010578+arushsaxena@users.noreply.github.com>
+Date:   Fri Oct 4 21:28:14 2019 +0530
+
+    Edit Distance(DP)
+
+[33mcommit b02a11c6769edf991dc77e5c211ca301f19b9b2a[m
+Author: arushsaxena <36010578+arushsaxena@users.noreply.github.com>
+Date:   Fri Oct 4 21:25:23 2019 +0530
+
+    Coin Change DP
+
+[33mcommit 0a5806ed277423307fb80867fd7c21b5f2b00ee5[m
+Merge: 83301eb 900e1bd
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Wed Oct 2 00:53:40 2019 +0530
+
+    Merge pull request #6 from atyant-yadav/atyant-yadav-patch-2
+    
+    Update README.md
+
+[33mcommit 900e1bda03f22010c4424ef97e0a8a00a747c3be[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Wed Oct 2 00:48:00 2019 +0530
+
+    Update README.md
+
+[33mcommit 83301ebb178daecc5c2e8d2931d934184233eb8e[m
+Merge: 0788626 fb63a41
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 1 23:56:50 2019 +0530
+
+    Merge pull request #1 from Amanrj60/master
+    
+    Add two numbers in python code
+
+[33mcommit fb63a4105984b66d8fd15473bf91233a5eab996c[m
+Author: Amanrj60 <43289857+Amanrj60@users.noreply.github.com>
+Date:   Tue Oct 1 23:44:14 2019 +0530
+
+    Update README.md
+
+[33mcommit 25c926a6cb6614db84c81a58e1fa3af481b350cc[m
+Author: Amanrj60 <43289857+Amanrj60@users.noreply.github.com>
+Date:   Tue Oct 1 23:31:17 2019 +0530
+
+    Subtract two numbers in python code
+
+[33mcommit 3bb1c98f7dc3ef8586df8cca1355666e32613fd9[m
+Author: Amanrj60 <43289857+Amanrj60@users.noreply.github.com>
+Date:   Tue Oct 1 23:25:48 2019 +0530
+
+    Add files via upload
+
+[33mcommit 0788626f3086676bd146c2404c2219441b68a5e7[m
+Author: bittuyadav <bittuyadav1998@gmail.com>
+Date:   Tue Oct 1 23:11:35 2019 +0530
+
+    first commit
+
+[33mcommit 40c029da3726c53fa1fa4ae3063ca9a62cff74b5[m
+Author: Atyant Yadav <50525552+atyant-yadav@users.noreply.github.com>
+Date:   Tue Oct 1 23:00:38 2019 +0530
+
+    Initial commit
