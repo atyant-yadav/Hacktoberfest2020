@@ -1,0 +1,29 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+//The chords are given to be non-intersecting in nature.
+
+int main(){
+    long long int t,n,a,i,j;
+    cin >> t;
+    while(t--){
+        cin >> n;
+        a = 2*n;
+        long long int dp[a+1] = {0};
+        dp[0] = 1;
+        dp[2] = 1;        // only 1 way to divide a circle using 2 points ie. 1 chord 
+        // When 2 points are joined to form a chord, 
+        // two distinct sets on either sides are formed. 
+        // Let points on one side are j, and total is 2*n, 
+        // so points on other side are 2*n-j-2 
+        // (2 ---> the points using which the first chord is formed)
+        for(i=4;i<=a;i+=2){
+        // 2 points are used up each time a chord is formed
+            for(j=0;j<=i-2;j+=2){
+                dp[i] += dp[j]*dp[i-j-2];   
+            }
+        }
+        cout << dp[a] << "\n";
+    }
+    return 0;
+}
