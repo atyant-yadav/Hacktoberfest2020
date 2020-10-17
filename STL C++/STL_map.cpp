@@ -1,9 +1,11 @@
 #include<iostream>
 #include<map>
 using namespace std;
+// Including the header file iostream and map . Declaration is using the name space method std 
 
 
 
+//Main
 int main()
 { 
     map <string,int> m1={                             // Declaration + Initialization
@@ -12,7 +14,7 @@ int main()
                           {"Keshav",89},         // Here, Strings are the indexes(key) and numerics are the values(its values)
                           {"Armaan",60},         // KEY & VALUE pair.
                           {"Ayush",80}            
-                       };
+                       }; //Map element with integer and string value
 
 
 /* -------IMP ---  If numerics are the indexes, then they will be stored in ascending order as index no. whereas the strings will be as in 
