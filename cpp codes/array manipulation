@@ -1,0 +1,26 @@
+#include<iostream>
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+    long long int n,m;
+    cin>>n>>m;
+    long int *arr=new long int[n+1]();
+    for(long long int i=0;i<=n;i++)
+        arr[i]=0;
+    for(long long int i=0;i<m;i++){
+long long int a,b,k;
+cin>>a>>b>>k;
+arr[a]=arr[a]+k;
+if(b+1<=n)
+arr[b+1]=arr[b+1]-k;
+    }
+     long long int sum=0,max=0;
+    for(int i=1;i<n;i++){
+        sum=sum+arr[i];
+        if(sum>max){
+        max=sum;
+        }
+    }
+   cout<<max<<endl;
+}
