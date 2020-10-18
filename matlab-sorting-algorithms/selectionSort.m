@@ -1,6 +1,6 @@
 function A = selectionSort(A)
 %Input A: a row or column vector of numbers
-%Input A: a row or column vector of sorted numbers
+%Output A: a row or column vector of sorted numbers
 
 
 % Check input
