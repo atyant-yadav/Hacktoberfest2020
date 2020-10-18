@@ -1,0 +1,17 @@
+print("Put new things into the list one at a time")
+print("Enter the word 'DONE' to stop adding items")
+list1='DONE'
+list=[]
+count=0
+while(count>=0):
+    item=raw_input()
+    item=item.upper()
+    if(item!=list1):
+            list.append(item)
+    else:
+            print("Here's your list")
+            for x in range(len(list)):
+                print(list[x])
+            break
+    count+=1  
+  
