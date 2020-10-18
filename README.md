@@ -47,6 +47,7 @@ Jayant Namrani <br/>
 Daalb <br/>
 Mehul Aswar<br/>
 Chinmay Das<br/>
+Souvik Banerjee<br/>
 Kunal Mehta<br/>
 Rajdeep Ghosh <br/>
 Akshita Mehta<br/>
