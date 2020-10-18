@@ -12,11 +12,7 @@ public class FactorialOfVeryBigInteger {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int tc = scanner.nextInt();
-        while(tc>0){
-            int N = scanner.nextInt();
-            System.out.println(factorial(N));
-            tc--;
-        }
+        int N = scanner.nextInt();
+        System.out.println(factorial(N));
     }
 }
