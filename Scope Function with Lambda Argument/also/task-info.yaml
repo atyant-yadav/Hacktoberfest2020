@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main() {
+        val text = "Hello Kotlin"
+        val result = text.also {
+            println("value length -> ${it.length}")
+        }
+
+        println("text -> $result")
+    }
+  learner_created: false
+status: Solved
+record: -1
