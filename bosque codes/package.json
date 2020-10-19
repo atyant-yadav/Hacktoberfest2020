@@ -1,0 +1,35 @@
+{
+  "name": "bosque-reference-implementation",
+  "description": "Experimental compiler & runtime for the Bosque programming language.",
+  "author": "Mark Marron <marron@microsoft.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microsoft/BosqueLanguage.git"
+  },
+  "dependencies": {
+    "@types/node": "~10.12.18"
+  },
+  "devDependencies": {
+    "chalk": "~2.4.2",
+    "i": "^0.3.6",
+    "typescript": "^3.5.2",
+    "typescriptnpm": "^1.0.1"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "tsc -p tsconfig.json && node ./bin/test/test_runner.js"
+  },
+  "files": [
+    "bin/*"
+  ],
+  "engines": {
+    "node": ">=10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Microsoft/BosqueLanguage/issues"
+  },
+  "homepage": "https://github.com/Microsoft/BosqueLanguage#readme",
+  "main": "index.js"
+}
