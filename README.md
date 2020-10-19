@@ -36,9 +36,9 @@ alice choung <br />
 bhuvnesh <br />
 Bigdrea6 <br />
 Manish Kumar <br/>
-Garry  <br/>
-Pranav  <br/>
-Bikram Kharal  <br/>
+Garry <br/>
+Pranav <br/>
+Bikram Kharal <br/>
 Shubham Raj
 Saneen KP <br />
 Adnan Sheikh <br />
@@ -79,3 +79,4 @@ EnryBarto <br/>
 Hritik<br/>
 N. Ikhwan<br/>
 Suraj Kumar <br/>
+Anushka Paradkar <br/>
