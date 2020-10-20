@@ -1,4 +1,4 @@
-//Javascript function to implement Insertion Sort [Inplace Sorting Algorithm].
+//Javascript function to implement Insertion Sort [In-place Sorting Algorithm].
 function insertion_Sort(unsortedData) {
     for (let i = 1; i < unsortedData.length; i++) {
     let current = unsortedData[i];

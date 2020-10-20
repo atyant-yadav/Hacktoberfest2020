@@ -1,4 +1,4 @@
-//Javascript function to implement Bubble Sort [Inplace Sorting Algorithm].
+//Javascript function to implement Bubble Sort [In-place Sorting Algorithm].
 function bubble_Sort(a)
 {
     var swapp;

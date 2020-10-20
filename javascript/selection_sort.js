@@ -1,4 +1,4 @@
-//Javascript function to implement Selection Sort [Inplace Sorting Algorithm].
+//Javascript function to implement Selection Sort [In-place Sorting Algorithm].
 function selection_Sort(arr){
     var minIdx, temp, 
         len = arr.length;

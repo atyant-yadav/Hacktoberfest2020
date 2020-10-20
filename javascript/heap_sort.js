@@ -1,4 +1,4 @@
-//Javascript function to implement Heap Sort [Inplace Sorting Algorithm].
+//Javascript function to implement Heap Sort [In-place Sorting Algorithm].
 
 // first it builds an heap which is done in the heapify function.
 // Hepaify put the largest element at the root and continously verify this condition.
