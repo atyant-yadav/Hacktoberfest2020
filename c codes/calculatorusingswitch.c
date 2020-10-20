@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     char operator;
-    double first, second;
+    double first, second, res;
     printf("Enter an operator (+, -, *,): ");
     scanf("%c", &operator);
     printf("Enter two operands: ");
@@ -9,21 +9,21 @@ int main() {
 
     switch (operator) {
     case '+':
-        printf("%.1lf + %.1lf = %.1lf", first, second, first + second);
+        res = first + second;
         break;
     case '-':
-        printf("%.1lf - %.1lf = %.1lf", first, second, first - second);
+        res = first - second;
         break;
     case '*':
-        printf("%.1lf * %.1lf = %.1lf", first, second, first * second);
+        res = first * second;
         break;
     case '/':
-        printf("%.1lf / %.1lf = %.1lf", first, second, first / second);
+        res = first / second;
         break;
         // operator doesn't match any case constant
     default:
         printf("Error! operator is not correct");
     }
-
+    printf("%.1lf %c %.1lf = %.1lf", first, operator, second, res);
     return 0;
 }
