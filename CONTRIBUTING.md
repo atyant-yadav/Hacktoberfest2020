@@ -8,6 +8,9 @@ The following is a set of guidelines for contributing to "Hacktoberfest2020". Th
 2. You can suggest enhancements that you would want to see implemented on the project by creating an issue.
 3. You can address a wide variety of open issues by claiming them if you wish to contribute and make a pull request.
 
+## Code of Conduct for Contributors
+This project and everyone participating in it is governed by the code of conduct for contributors which you can find [here](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
 ## Steps to contribute for new comers (For First Timers) 
 
 * Fork this repo and give it a star.
