@@ -23,6 +23,7 @@ body{
     background: #3498db;
     padding: 0 20px;
     margin: 0 10px;
+    border-radius: 10px;
     width: calc(33% - 20px);
     height: 200px;
     display: flex;
@@ -65,7 +66,7 @@ body{
     }
     .card{
         width: 100%;
-        max-width: 300px;
+        max-width: 350px;
         margin: 10px 0;
     }
 }
