@@ -58,6 +58,7 @@ body{
 .card:hover p{
     max-height: 40px;
     opacity: 1;
+    background-color : grey;
 }
 @media screen and (max-width:800px){
     .contact-info{
