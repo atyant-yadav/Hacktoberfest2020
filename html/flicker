@@ -1,0 +1,62 @@
+<body>
+<div class="container">
+        <div class="btn-shine">
+            <span>P</span>
+            <span>I</span>
+            <span>V</span>
+            <span>O</span>
+            <span>T</span>
+        </div>
+
+
+    </div>
+  </body>
+  
+  body{
+  margin:0;
+  padding:0;
+    background: #202020;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 3rem;
+    text-align: center;
+    position:relative;
+}
+.btn-shine
+{
+  margin-top:100px;
+  font-family:sans-serif;
+  color:#333;
+  font-size:100px;
+  transition:all 0.5s;
+}
+.btn-shine:hover {
+    text-shadow: 0 0 10px #FFF, 0 0 20px #FFF, 0 0 40px #FFF, 0 0 80px #FFF;
+    color: #FFF;
+}
+btn-shine span:nth-child(2):hover {
+    animation: none;
+}
+
+.btn-shine span:nth-child(2) {
+    animation: shine 5s linear infinite;
+    transition: all .5s;
+}
+
+@keyframes shine {
+    0%,
+    20%,
+    50%,
+    80% {
+        color: #333;
+        text-shadow: none;
+    }
+    30%,
+    70%,
+    95% {
+        color: #FFF;
+        text-shadow: 0 0 10px #FFF, 0 0 20px #FFF, 0 0 40px #FFF, 0 0 80px #FFF;
+    }
+}
