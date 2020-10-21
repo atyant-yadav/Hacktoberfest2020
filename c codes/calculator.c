@@ -28,17 +28,13 @@ void main(){
 
 	if (operator == 1){
 		result = a + b;
-		printf("Result: %f \n", result);
 	} else if (operator == 2){
 		result = a - b;
-		printf("Result: %f \n", result);
 	} else if (operator == 3){
 		result = a * b;
-		printf("Result: %f \n", result);
 	} else if (operator == 4){
 		if (b != 0){
 			result = a / b;
-			printf("Result: %f \n", result);
 		} else if (b == 0){
 			if (a != 0){
 				printf("Can't divide by 0\n");
@@ -47,4 +43,5 @@ void main(){
 			}
 		}	
 	} 
+	printf("Result: %f \n", result);
 }
