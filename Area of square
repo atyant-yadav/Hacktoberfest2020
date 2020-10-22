@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+
+int side;
+
+printf("Enter the value of side of a Square\n");
+
+scanf("%d", &side);
+
+printf("The area of Square is %d\n", side * side);
+
+    return 0;
+
+}
