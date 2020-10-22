@@ -1,4 +1,4 @@
-# Hactoberfest2020
+# Hacktoberfest2020
 
 A repo for new open source contributers to begin with open source contribution. <br />
 UPDATE: Added "hacktoberfest" tag to this repo.<br />
