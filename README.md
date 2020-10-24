@@ -1,4 +1,4 @@
-# Hactoberfest2020
+# Hacktoberfest2020
 
 A repo for new open source contributers to begin with open source contribution. <br />
 UPDATE: Added "hacktoberfest" tag to this repo.<br />
@@ -81,4 +81,9 @@ Hritik<br/>
 N. Ikhwan<br/>
 Suraj Kumar <br/>
 Dviti <br/>
+<<<<<<< HEAD
 doom3007 <br/>
+=======
+Muskaan Shaikh <br />
+Vatsla Adhiakri <br/>
+>>>>>>> 8c8e9799eb34de2d578decf3406806ec8c37fb98
