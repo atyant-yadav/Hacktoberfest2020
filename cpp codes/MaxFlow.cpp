@@ -90,7 +90,6 @@ int fordFulkerson(int graph[V][V], int s, int t)
 		max_flow += path_flow; 
 	} 
 
-	// Return the overall flow 
 	return max_flow; 
 } 
 
