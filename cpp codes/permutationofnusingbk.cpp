@@ -1,3 +1,6 @@
+/// NICOI ALEXANDRU - tr0yyy
+/// Permutations of {1,2,...n} using backtracking implementation
+
 #include <iostream>
 
 using namespace std;
