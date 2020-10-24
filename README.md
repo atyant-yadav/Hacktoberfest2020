@@ -1,4 +1,4 @@
-# Hactoberfest2020
+# Hacktoberfest2020
 
 A repo for new open source contributers to begin with open source contribution. <br />
 UPDATE: Added "hacktoberfest" tag to this repo.<br />
@@ -81,4 +81,6 @@ Hritik<br/>
 N. Ikhwan<br/>
 Suraj Kumar <br/>
 Dviti <br/>
-[Ashutosh Pandey](https://github.com/DataCrusade1999)<br/>
+Ashutosh Pandey<br/>
+Muskaan Shaikh <br />
+Vatsla Adhiakri <br/>
