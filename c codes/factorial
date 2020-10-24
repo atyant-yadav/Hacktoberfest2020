@@ -1,0 +1,15 @@
+#include <stdio.h>
+ 
+int main()
+{
+  int c, num, f = 1;
+ 
+  printf("Enter a number to calculate its factorial\n");
+  scanf("%d", &num);
+  for (c = 1; c <= num; c++)
+    f = f * c;
+ 
+  printf("Factorial of %d = %d\n", num, f);
+ 
+  return 0;
+}
