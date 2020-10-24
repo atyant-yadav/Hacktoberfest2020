@@ -81,9 +81,6 @@ Hritik<br/>
 N. Ikhwan<br/>
 Suraj Kumar <br/>
 Dviti <br/>
-<<<<<<< HEAD
 doom3007 <br/>
-=======
 Muskaan Shaikh <br />
 Vatsla Adhiakri <br/>
->>>>>>> 8c8e9799eb34de2d578decf3406806ec8c37fb98
