@@ -1,4 +1,25 @@
-print("Give two numbers :")
-a = int(input("Enter 1st Number"))
-b = int(input("Enter 2st Number"))
+print("Welcome to the Addition Calculator! Please Provide 2 Numbers to begin")
+a = int(input("Enter 1st Number "))
+b = int(input("Enter 2st Number "))
+print("Your New Number is...")
 print(a+b)
+
+print("We Do Multiplication too")
+a = int(input("Enter 1st Number "))
+b = int(input("Enter 2st Number "))
+print("Your New Number is...")
+print(a*b)
+
+print("And Substraction!")
+a = int(input("Enter 1st Number "))
+b = int(input("Enter 2st Number "))
+print("Your New Number is...")
+print(a-b)
+
+print("Don't forget about division")
+a = int(input("Enter 1st Number "))
+b = int(input("Enter 2st Number "))
+print("Your New Number is...")
+print(a/b)
+
+print("maths is fun! Thanks for playing!")
