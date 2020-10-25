@@ -1,7 +1,8 @@
 class Thisoperator
 {
- int a; 
- int b;
+ //checking if initial values are overriden
+ int a=5; 
+ int b=10;
 
   void setdata(int a , int b)
    {
