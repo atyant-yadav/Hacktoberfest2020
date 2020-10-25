@@ -22,6 +22,5 @@ int main()
     cout << "\nOutput of crbegin and crend : "; 
     for (auto i = v.crbegin(); i != v.crend(); i++) 
         cout << *ir << " "; 
-  
-    return 0; 
+  return 0;
     }
