@@ -1,6 +1,6 @@
 public class AgesScanner {
 	public static void main(String Args[]) {
-		System.out.print("Enter the Age: ");
+		System.out.println("Enter the Age: ");
 		Scanner in = new Scanner(System.in);
 		int i = in.nextInt();
 		in.close();
