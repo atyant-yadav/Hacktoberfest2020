@@ -18,6 +18,9 @@ public class Math {
         ans = n1/n2;
         System.out.println("Quotient = "+ans+" & Remainder = "+n1%n2);
         
+        double square_root= Math.sqrt(n1,2);
+        System.out.println("Square root of n1="+square_root);        
+        
         scan.close();
     }
 }
