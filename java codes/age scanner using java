@@ -4,6 +4,10 @@ public class AgesScanner {
 		Scanner in = new Scanner(System.in);
 		int i = in.nextInt();
 		in.close();
+		if(i<0)
+		{
+		     System.out.println("Age cannot be a negative number");
+		}
 		if (i >= 0 && i <= 5) {
 			System.out.println("Infant");
 		} else if (i >= 6 && i <= 17) {
