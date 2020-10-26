@@ -2,8 +2,8 @@
 
 def counting_sort(A,k):    
     length = len(A)                    
-    Output = [0] * length               // the sorted output array
-    Count = [0] * k                     // the array of count of each number in the given range
+    Output = [0] * length               # the sorted output array
+    Count = [0] * k                     # the array of count of each number in the given range
     for i in range(0,length):
         Count[A[i]] = Count[A[i]] + 1                
 
@@ -29,7 +29,7 @@ def counting_sort(A,k):
 A = [2,5,3,0,2,3,0,3]
 print("The unsorted array ")
 print(A)
-counting_sort(A,6)   //pass array and range of numbers eg:(0-5)
+counting_sort(A,6)   #pass array and range of numbers eg:(0-5)
 
 
         
