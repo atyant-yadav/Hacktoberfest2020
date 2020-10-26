@@ -13,10 +13,10 @@ public class operators {
         String upwd = s.next();
 
         
-        if ((uuid.equals(x) && upwd.equals(y))
-            || (uuid.equals(y) && upwd.equals(x)))
+        if ((uuid.equalsIgnoreCase(x) && upwd.equalsIgnoreCase(y))
+            || (uuid.equalsIgnoreCase(y) && upwd.equalsIgnoreCase(x)))
             {
-            System.out.println("Welcome user.");
+            System.out.println("Welcome "+uuid);
         }
         else {
             System.out.println("Wrong uid or password");
