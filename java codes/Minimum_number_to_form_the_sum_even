@@ -1,0 +1,11 @@
+class Solution
+{
+    long minNum(long A[], int N)
+    {
+         int num=0;
+	    for(int i=0;i<N;i++){
+	        num+=A[i];
+	        }
+	        return ((num%2)!=0)?1:2;
+    }
+}
