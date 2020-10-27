@@ -5,7 +5,11 @@ def bubble_sort(arr):
             if arr[j]>arr[j+1]:
                 arr[j],arr[j+1]=arr[j+1],arr[j]
 arr=[1,23,45,21,12,71,33,90]
-bubble_sort(arr)
-print('sorted array is:')
+
+print('array before sorting:')                             //array before sorting
+for i in range(len(arr)):
+    print('%d' %arr[i],end='   ')
+bubble_sort(arr)                           //calling bubble sorting func
+print('sorted array is:')                   // printing array
 for i in range(len(arr)):
     print('%d' %arr[i],end='   ')
