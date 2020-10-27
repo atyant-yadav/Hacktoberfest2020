@@ -10,11 +10,12 @@ int main()
    scanf("%d%d", &m, &n);
    printf("Enter the elements of first matrix\n");
  
+// main coloumn and row logic implementation
    for (c = 0; c < m; c++)
       for (d = 0; d < n; d++)
          scanf("%d", &first[c][d]);
  
-   printf("Enter the elements of second matrix\n");
+   printf("Enter the numeric elements of second matrix\n");
  
    for (c = 0; c < m; c++)
       for (d = 0 ; d < n; d++)
@@ -24,8 +25,8 @@ int main()
    
    for (c = 0; c < m; c++) {
       for (d = 0 ; d < n; d++) {
-         sum[c][d] = first[c][d] + second[c][d];
-         printf("%d\t", sum[c][d]);
+         sum[c][d] = first[c][d] + second[c][d];  // addition of matrices
+         printf("%d\t\t", sum[c][d]);
       }
       printf("\n");
    }
