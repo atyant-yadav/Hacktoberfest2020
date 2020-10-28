@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block body_block %}
+    <div class='container detail'>
+        <h1>Created on: {{mail.created_on}}</h1>
+
+        <h3>Subject: {{mail.subject}}</h3>
+
+        <h3>Message: {{mail.message}}</h3>
+
+        <a class='btn btn-danger' href="{% url 'auto_mail:post' pk=mail.pk %}">Mail</a>
+    </div>
+{% endblock body_block %}

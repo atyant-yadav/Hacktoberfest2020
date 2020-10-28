@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% load bootstrap4 %}
+
+{% block body_block %}
+
+    <div class='container mail'>
+        <form method='POST'>
+            {% csrf_token %}
+            {% bootstrap_form form %}
+            <input type='Submit' class='btn btn-primary' value='Done'>
+        </form>
+    </div>
+
+{% endblock body_block %}

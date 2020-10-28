@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block body_block %}
+
+    <div class='container list'>
+        {% for mail in mail_list_content %}
+            <h4>
+                <a href="{% url 'auto_mail:detail' pk=mail.pk %}">{{mail.created_on}}</a>
+            </h4>
+        {% endfor %}
+    </div>
+
+{% endblock body_block %}
