@@ -92,9 +92,11 @@ public class Test {
 		ll.add(15);
 		ll.add(20);
 		ll.add(25);
+		ll.add(40);
     
 		System.out.println("original linkedlist");
     //Printing the elements of the linkedlist
+		System.out.println("Current linkedlist");
 		ll.print();
     
     //Removing Last element of the  linkedlist
