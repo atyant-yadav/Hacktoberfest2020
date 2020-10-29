@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Competitive Programs/Codeforces-Solution-JAVA/|leetcode solution/" kind="src" path=""/>
+	<classpathentry kind="src" path="Competitive Programs/Codeforces-Solution-JAVA"/>
+	<classpathentry kind="src" path="leetcode solution"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
