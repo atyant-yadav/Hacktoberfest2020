@@ -69,7 +69,7 @@ Neeraj Singh NK <br/>
 SimonaMS<br/>
 Strange<br/>
 Krisha A <br/>
-Venkata Sreeram <br>
+Venkata Sreeram <br/>
 Anoop P<br/>
 Rahul <br/>
 Aniket Shukla<br/>
@@ -87,3 +87,4 @@ Vatsla Adhiakri <br/>
 Sana Shah <br/>
 Archit Gupta <br/>
 Samrat Khan <br/>
+Eduard Scaueru <br/>
