@@ -1,0 +1,8 @@
+body{
+      background-image: linear-gradient(yellow, red);
+}
+
+div div img{
+      border: 10px solid black;
+      padding: 15px;
+}
