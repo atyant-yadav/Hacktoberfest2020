@@ -1,0 +1,108 @@
+/* Universal Styles */
+
+html {
+    font-size: 16px;
+  }
+  
+  body {
+    background-color: white;
+  }
+  
+  .image-container {
+    position: center;
+  }
+  
+  /* Banner Section */
+  
+  #banner {
+    height: 46rem;
+    background-image: url('https://cdn.hipwallpaper.com/i/44/49/YmqdOP.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  #banner h1 {
+    font-size: 3.75rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: white;
+  }
+  
+  /* Blog Post */
+  
+  #blog {
+    width: 86%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #blog .post {
+    width: 52%;
+    margin-top: 12.5%;
+    margin-bottom: 7.5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    font-size: 1rem;
+    text-align: center;
+    line-height: 1.8;
+    color: #444444;
+  }
+  
+  .post h2 {
+    font-size: 1.875rem;
+    
+  }
+  
+  .post h3 {
+    font-size: 1.125rem;
+    color: #999999;
+  }
+  
+  .post .opening-line {
+    margin-top: 4.1875rem;
+    margin-bottom: 1.5rem;
+    color: black;
+    font-weight: bold;
+  }
+  
+  .post .image-container {
+    width: 100%;
+    padding: 2rem;
+    position: center;
+    margin: auto;
+    image-rendering: auto;
+    resize: both;
+  }
+  
+  /* Blog Images */
+  
+  .images {
+    margin-bottom: 20%;
+  }
+  
+  .images .image-container {
+    display: inline-block;
+    width: 50%;
+    position: relative;
+    
+  }
+  
+  /* Footer */
+  
+  footer {
+    padding: 4rem 0;
+    border-top: 1px solid #999999;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.125rem;
+    color: #999999;
+    text-align: center;
+  }
