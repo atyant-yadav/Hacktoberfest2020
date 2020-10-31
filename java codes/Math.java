@@ -19,5 +19,9 @@ public class Math {
         System.out.println("Quotient = "+ans+" & Remainder = "+n1%n2);
         
         scan.close();
+        
+        double pow=Math.pow(n1,2);
+        System.out.println("Square of "+n1+"= "+pow);
+        
     }
 }
