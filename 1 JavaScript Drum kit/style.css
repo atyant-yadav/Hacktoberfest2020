@@ -1,0 +1,33 @@
+body{
+    background-image: url("./1909755.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(0, 153, 255);
+}
+.keys{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    padding: 20px;
+}
+.key{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    transition: 0.07s;
+    justify-content: center;
+    border: 2px rgb(0, 96, 175) solid;
+    background-color: rgba(39, 55, 65, 0.603);
+    margin: 10px;
+    text-align: center;
+}
+.playing{
+    transform: scale(1.5);
+    border-color: tan;
+    box-shadow: 0 0 10px tan;
+}
+kbd{
+    font-size: 30px;
+}
