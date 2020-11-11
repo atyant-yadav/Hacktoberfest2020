@@ -25,16 +25,17 @@ int main()
     obj1.swap(obj2);                    // will swap the values between the two arrays....
                                             /* CONDITION  Both arrays should have same size and datatype. */
       for(int i=0;i<6;i++)
-    cout<<obj1.at(i)<<endl;
+    cout<<obj1.at(i)<<"\n \n";
 
-     cout<<"\n\n";
+   
 
       for(int i=0;i<6;i++)
-    cout<<obj2.at(i)<<endl;
+    cout<<obj2.at(i)<<"\n \n";
 
      cout<<"\n\n";
      
-     cout<<obj3.size();    // will return the size(declared one) of the array.
+     cout<<obj3.size();// will return the size(declared one) of the array.
+}     // syntax 
 
      
 
