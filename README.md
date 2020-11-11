@@ -81,11 +81,4 @@ Hritik<br/>
 N. Ikhwan<br/>
 Suraj Kumar <br/>
 Dviti <br/>
-Vijay Chauhan (mr-vijaychauhan)<br />
-doom3007 <br/>
-Muskaan Shaikh <br />
-Vatsla Adhiakri <br/>
-Sana Shah <br/>
-Archit Gupta <br/>
-Samrat Khan <br/>
 
