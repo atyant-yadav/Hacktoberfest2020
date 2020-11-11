@@ -10,10 +10,14 @@ class ArryaLists{
       city_List.add("Kolkata");
       
       System.out.println("Initial ArrayList:" + city_List);
+      
+      city_List.remove(3);
+      System.out.println("\nArrayList after removing element at index 3:" + city_List);
+      
      
       city_List.add(1, "Jaipur");
      
-      System.out.println("\nrrayList after adding element at index 1:" + city_List);
+      System.out.println("\nArrayList after adding element at index 1:" + city_List);
       
       ArrayList<String> more_Cities = new ArrayList<String>(Arrays.asList("Pune", "Hyderabad"));
      
