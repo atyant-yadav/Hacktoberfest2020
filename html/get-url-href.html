@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<title>Get URL from inside your Parent DIV</title>
+
+<body>
+
+    <div id="contributes" style="display:none">
+        <a href="https://github.com/AbhishekJadav011" target="_blank">Abhishek Jadav</a>
+        <a href="https://github.com/chrisdemars" target="_blank">Chris DeMars</a>
+        <a href="https://github.com/Sanatan-Upadhyay" target="_blank">Sanatan</a>
+        <a href="https://github.com/HugoWALTER" target="_blank">Hugo Walter</a>
+        <a href="https://github.com/ainandoo" target="_blank">Ainando Kei</a>
+        <a href="https://github.com/prateikjena" target="_blank">Prateek Jena</a>
+        <a href="https://github.com/salahuddinjony" target="_blank">Salahuddinjony</a>
+        <a href="https://github.com/alexj24" target="_blank">alexj24</a>
+        <a href="https://github.com/hasinichathu" target="_blank">Hasini</a>
+        <a href="https://github.com/nileshkumar94" target="_blank">Nilesh kumar</a>
+        <a href="https://github.com/lisa-broedlin" target="_blank">Lisa</a>
+        <a href="https://github.com/shivangupadhyay05" target="_blank">shivang upadhyay</a>
+        <a href="https://github.com/vijayakumarGit" target="_blank">Vijay</a>
+        <a href="https://github.com/ajay1706" target="_blank">Ajay Sharma(droid_aj)</a>
+        <a href="https://github.com/LautaroLobo12" target="_blank">Lautaro Lobo</a>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+    <script>
+        // get your all url from <a> inside your parent div
+        $(document).ready(function () {
+            $('#contributes').find('a').each(function () {
+                let github_user_url = $(this).attr('href');
+                let github_user_name = github_user_url.split("https://github.com/").pop(); //  Split String For Get Username
+                console.log(github_user_url, github_user_name);
+
+                // API Code Here
+            });
+        });
+    </script>
+
+</body>
+
+</html>
