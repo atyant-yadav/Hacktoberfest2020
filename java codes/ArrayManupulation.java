@@ -22,11 +22,14 @@ public class Manupulation{
 
         long sum = 0;
         long max = 0;
+        long min=0;
 
         for(int i=0;i<N;i++){
             sum +=arr[i];
-            max = Math.max(max,sum); 
+            max = Math.max(max,sum);
+            min=Math.min(min,sum);
         }
         System.out.println(max);
+        System.out.println(min);
     }
 }
