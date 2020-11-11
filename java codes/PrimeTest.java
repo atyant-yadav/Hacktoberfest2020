@@ -5,18 +5,16 @@ public class PrimeTest {
     public boolean isPrime(int number) {
         boolean isPrime = false;
         int divider = 2;
-        int checker = 0;
+        int divisbleByNumberOfNumbers = 0;
 
             while (divider < number) {
                 if (number % divider == 0) {
-                    checker = 1;
+                    checker += 1;
                 }
                 divider++;
             }
-            if (checker == 0) {
-                isPrime = true;
-            }
-        return isPrime;
+        return (checker == 0);
+        //this cuts down on lines and makes it easiesr
     }
 
     public static void main(String... args) {
