@@ -50,6 +50,6 @@ def merge_sort(nums):
 
 
 # Verify it works
-random_list_of_nums = [120, 45, 68, 250, 176]
+random_list_of_nums = [120, ,58,345,45, 68, 250, 176]
 random_list_of_nums = merge_sort(random_list_of_nums)
 print(random_list_of_nums)
