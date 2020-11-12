@@ -13,13 +13,13 @@ float b;
 float result;
 int operator;
 
-void main(){
+int main(){
 	printf("CALCULATOR IN C - by EnryBarto:\n\n");
 
-	printf("Insert the first number: ");
+	printf("Insert the first number:  ");
 	scanf("%f",&a);
 
-	printf("Insert the second number: ");
+	printf("Insert the second number:  ");
 	scanf("%f",&b);
 
 	printf("\nInsert: 1 - to do a sum;\nInsert: 2 - to do a subtraction;\nInsert: 3 - to do a multiplication;\nInsert: 4 - to do a division.\nInsert operator: ");
@@ -44,6 +44,7 @@ void main(){
 				printf("Can't divide by 0\n");
 			} else if (a == 0){ 
 				printf("Undefined\n");
+				return 0;
 			}
 		}	
 	} 
