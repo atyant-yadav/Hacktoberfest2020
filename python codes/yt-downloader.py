@@ -151,7 +151,8 @@ class YoutubeDownloader():
                                 
                         except:
                                 time.sleep(10)
-                                messagebox.showerror("Error","Unable to Download Video | Something went wrong !!")
+                                messagebox.showerror("Error","Unable to Download Video | Something went wrong !")
+                                print("try again with another video!")
 
         # ========================= End ==============================
 
