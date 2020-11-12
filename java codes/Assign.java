@@ -29,6 +29,7 @@ public class Assign
        
         System.out.println(b1.height);
         System.out.println(b2.height);
+         System.out.println(b2.depth);
     }
     
 }
