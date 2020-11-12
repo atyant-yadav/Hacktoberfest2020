@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Count Down</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+HK&display=swap" rel="stylesheet">     <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="bgimg">
+        <div class="middle">
+            <h1 class="title">Coundown to New&nbspYear
+                <span id="year"></span>
+            </h1>
+            <div class="count">
+                <div class="circles">
+                    <svg width="200" height="200">
+                        <circle r="98px" cx="100px" cy="100px" class="track"></circle>
+                        <circle r="98px" cx="100px" cy="100px" class="dprogress"></circle>
+                    </svg>
+                    <div class="inner">
+                    <span id="days">00</span>
+                    DAYS
+                    </div>
+                </div>
+                <div class="circles">
+                    <svg width="200" height="200">
+                        <circle r="98.5px" cx="100px" cy="100px" class="track"></circle>
+                        <circle r="98.5px" cx="100px" cy="100px" class="hprogress"></circle>
+                    </svg>
+                    <div class="inner">
+                    <span id="hours">00</span>
+                    HOURS
+                    </div>
+
+                </div>
+                <div class="circles">
+                    <svg width="200" height="200">
+                        <circle r="98.5px" cx="100px" cy="100px" class="track"></circle>
+                        <circle r="98.5px" cx="100px" cy="100px" class="mprogress"></circle>
+                    </svg>
+                    <div class="inner">
+                    <span id="minutes">00</span>
+                    MINUTES
+                    </div>
+                </div>
+                <div class="circles">
+                    <svg width="200" height="200">
+                        <circle r="98.5px" cx="100px" cy="100px" class="track"></circle>
+                        <circle r="98.5px" cx="100px" cy="100px" class="sprogress"></circle>
+                    </svg>
+                    <div class="inner">
+                    <span id="seconds">00</span>
+                    SECONDS
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="timer.js"></script>
+</html>

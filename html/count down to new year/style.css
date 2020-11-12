@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans HK', sans-serif;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+}
+.bgimg{
+    height: 100%;
+    width: 100%;
+    background-image: url("img/bgimg.jpeg");
+    background-size: cover;
+    padding-top: 5%;
+}
+.middle{
+    /*position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);*/
+    width: 80%;
+    text-align: center;
+    color: #fff;
+    margin: auto;
+}
+.title{
+    font-size: 80px;
+    margin-bottom: 50px;
+}
+hr{
+    margin: 30px;
+}
+.count{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.circles{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #ffffff25;
+    margin: 20px;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+span{
+    display: block;
+    font-size: 100px;
+}
+#year{
+    font-size: 140px;
+}
+.inner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-60%);
+}
+
+.track {
+    stroke-width: 3;
+    stroke: #ffffff44;
+    fill: none;
+}
+
+.dprogress, .hprogress, .mprogress, .sprogress {
+    stroke-width: 4;
+    stroke: #ffffff;
+    fill: none;
+    transform: rotate(-90deg);
+    transform-origin: center;
+}
+
+
+@media (max-width: 426px) {
+    .circles{
+        transform: scale(.8);
+        margin: 0 0 20px 0;
+    }
+    #year{
+        transform: scale(.7);
+    }
+	.title{
+        font-size: 50px;
+        margin: 0;
+	}
+}
