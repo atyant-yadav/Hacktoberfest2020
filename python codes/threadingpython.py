@@ -19,13 +19,13 @@ if __name__ == "__main__":
 	print("Main thread name: {}".format(threading.current_thread().name)) 
 
 	# creating threads 
-	t1 = threading.Thread(target=task1, name='t1') 
-	t2 = threading.Thread(target=task2, name='t2') 
+	k1 = threading.Thread(target=task1, name='k1') 
+	k2 = threading.Thread(target=task2, name='k2') 
 
 	# starting threads 
-	t1.start() 
-	t2.start() 
+	k1.start() 
+	k2.start() 
 
 	# wait until all threads finish 
-	t1.join() 
-	t2.join() 
+	k1.join() 
+	k2.join() 
