@@ -1,0 +1,66 @@
+    html {
+        background-image: url("back.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    
+    .in {
+        border: black;
+        color: rebeccapurple;
+        padding: 100 10 10 10;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+    }
+    
+    .welcome {
+        border-style: solid;
+        color: darkcyan;
+        background-color: inherit;
+        display: inline-block;
+        border-width: 5px;
+        border-color: black;
+    }
+    
+    ul {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    .input {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: #fcf7f8;
+        border: 100;
+        outline: 0;
+        font-weight: 3;
+        font-size: 20px;
+        margin: 0 10px;
+        transition: 0.15s ease-in-out all;
+        box-shadow: 0 3px 3px rgba(0, 0, 0, 0.25);
+        background: linear-gradient(to right, #17828a 50%, #16777e 50%);
+        background-size: 200% 100%;
+        background-position: right bottom;
+    }
+    
+    #rules {
+        border-style: inset;
+        display: inline-block;
+        justify-content: space-evenly;
+        background-color: white;
+    }
+    /* body>label>ul {
+        border-style: solid;
+        color: darkcyan;
+        background-color: inherit;
+        display: inline-block;
+        border-width: 5px;
+        border-color: black;
+    } */
+    
+    .suyash {
+        text-align: right;
+    }
