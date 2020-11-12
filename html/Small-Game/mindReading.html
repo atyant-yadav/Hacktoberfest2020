@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIND READING</title>
+    <style>
+        #stp2,#stp3,#stp4,#stp5,#ip1,#ip2,#b1{
+            display: none;
+        }
+        body{
+            background-image:url('https://www.learning-mind.com/wp-content/uploads/2015/10/telepathy-is-possible.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            font-family: calibri;
+            font-size: 24px;
+        }
+        div{
+            background-color: white;
+            text-align: center;
+            max-width: 65%;
+            margin: 0 auto;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            background-color: white;
+            opacity: 0.8;
+            height: 100vh;
+        }
+        h1{
+            text-align: center;
+            font-family: arial;
+            color: red;
+        }
+        button{
+            text-align: center;
+            margin: 0 auto;
+            padding: 10px;
+            background-color: lightcoral;
+            border: 2px solid black;
+            font-size: 20px;
+            color: black;
+            border-radius: 5px;
+        }
+        input{
+            margin: 0 auto;
+            padding: 5px;
+            width: 40%;
+            font-size: 22px;
+            font-family: sans-serif;
+        }
+        label{
+            font-size:25px;
+            font-family: calibri;
+            font-weight: bolder;
+        }
+    </style>
+</head>
+<body>
+    <div>
+    <h1>MIND READING</h1>
+    <h3 id="stp1">Guess A Whole Number Between 0 To 100.</h3>
+    <h3 id="stp2">Now multiply The Guessed Number By 4.</h3>
+    <h3 id="stp3">Now add The new Number By 7.</h3>
+    <h3 id="stp4">Now Subtract The new Number By 9.</h3>
+    <h3 id="stp5">Now Divide The new Number By 2.</h3>
+    <label for="ip1" id="ip2">Input The Final Number : </label>
+    <input type="text" name="ip1" id="ip1" /><br/>
+    <button id="b1" type="button" onclick="sub()">SUBMIT</button><br/><br/>
+    <button id="b2" type="button" onclick="chg()">NEXT</button>
+    <p id="demo"></p>
+</div>
+</body>
+    <script>
+        function getById(d){
+            return document.getElementById(d);
+        }
+        let t = 0;
+        function chg(){
+            if(t==0){
+                getById('stp1').style.display = "none";
+                getById('stp2').style.display = "block";
+            t++;
+            }
+            else if(t==1){
+                getById('stp2').style.display = "none";
+                getById('stp3').style.display = "block";
+                t++;
+            }
+            else if(t==2){
+                getById('stp3').style.display = "none";
+                getById('stp4').style.display = "block";
+                t++;
+            }
+            else if(t==3){
+                getById('stp4').style.display = "none";
+                getById('stp5').style.display = "block";
+                t++;
+            }
+            else if(t==4){
+                getById('stp5').style.display = "none";
+                getById('ip1').style.display = "block";
+                getById('ip2').style.display = "block";
+                getById('b2').style.display = "none";
+                getById('b1').style.display = "block";
+                getById('b2').innerHTML = "RESET";
+                getById('ip1').focus();
+                t++;
+            }
+            else if(t==5){
+                t=0;
+                getById('ip1').style.display = "none";
+                getById('ip2').style.display = "none";
+                getById('b2').style.display = "block";
+                getById('b1').style.display = "none";
+                getById('b2').innerHTML = "NEXT";
+                getById('demo').style.display = "none";
+                getById('stp1').style.display = "block";
+            }
+            
+        }
+        function sub(){
+            let r = ip1.value;
+            let w = ((((r*2)+9)-7)/4);
+            let y  = w.toString();
+            let q = y.match(/^\d+$/g);
+            if(q!==null){
+            getById('demo').innerHTML = "YOUR NUMBER IS " + w;
+            getById('ip1').focus();
+            getById('b2').style.display = "block";
+            }
+            else{
+                alert("INVALID INPUT");
+                getById('ip1').value = "";
+                getById('ip1').focus();
+                getById('demo').innerHTML = "";
+            }
+        }
+    </script>
+</html>
