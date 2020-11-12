@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Calculator</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="calc.css">
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+  			integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  			crossorigin="anonymous">
+  	</script>
+</head>
+<body>
+	<div class="container">
+		<div class="jumbotron">
+			<h1 class="display-3">Calculator App</h1>
+			<p class="lead">This is a simple calculator application developed by Vaishnavi Badgujar.</p>
+			<hr class="my-4">
+		</div>
+
+
+		<textarea id="resultArea" readonly rows="3" cols="21"></textarea>
+
+		<table>
+			<tr>
+				<td></td>
+				<td></td>
+				<td><button id="clrTxt" class="btn btn-danger">C</button></td>
+				<td><button id="del" class="btn btn-default">&#9746;</button></td>
+			</tr>
+
+			<tr>
+				<td><button id="num7" class="btn btn-default">7</button></td>
+				<td><button id="num8" class="btn btn-default">8</button></td>
+				<td><button id="num9" class="btn btn-default">9</button></td>
+				<td><button id="op3" class="btn btn-default">&div;</button></td>
+			</tr>
+
+			<tr>
+				<td><button id="num4" class="btn btn-default">4</button></td>
+				<td><button id="num5" class="btn btn-default">5</button></td>
+				<td><button id="num6" class="btn btn-default">6</button></td>
+				<td><button id="op2" class="btn btn-default">&times;</button></td>
+			</tr>
+
+			<tr>
+				<td><button id="num1" class="btn btn-default">1</button></td>
+				<td><button id="num2" class="btn btn-default">2</button></td>
+				<td><button id="num3" class="btn btn-default">3</button></td>
+				<td><button id="op1" class="btn btn-default">&minus;</button></td>
+			</tr>
+
+			<tr>
+				<td><button id="decp" class="btn btn-default">.</button></td>
+				<td><button id="num0" class="btn btn-default">0</button></td>
+				<td><button id="eq" class="btn btn-default">=</button></td>
+				<td><button id="op0" class="btn btn-default">&plus;</button></td>
+			</tr>
+		</table>
+	</div>
+	<script type="text/javascript" src="calc.js"></script>
+</body>
+</html>
