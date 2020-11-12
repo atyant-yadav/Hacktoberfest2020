@@ -12,6 +12,7 @@ People who finished Hacktoberfest'20 using this repository. <br />
 
 Add your name here, and learn how to edit README.md. <br />
 
+Nirmal Patel <br/>
 Atyant Yadav <br />
 Arush Saxena <br />
 Anwesh Das <br />
