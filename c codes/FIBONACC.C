@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-	int n,k,i=0,j=1,sum=0;
+	int n,k,i=0,j=1,sum=0,total=0;
 
 	clrscr();
 
@@ -23,9 +23,9 @@ void main()
 	j=sum;
 
 	printf("%d\t",sum);
-
+        total+=sum;
 	k++;
 	}
-
+        printf("\nSum of first %d terms = %d",n,total+1);
 	getch();
 	}
