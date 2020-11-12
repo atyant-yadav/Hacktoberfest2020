@@ -1,57 +1,119 @@
 #include<iostream>
 #include<string>
+#include<algorithm>
 using namespace std;
+bool compare(string a,string b)//comparator defination
+{
+    if(a.length()==b.length())
+        return a<b;
 
+    return a.length()>b.length();
+}
 int main()
 {
-    string s1;
-    s1="Hello ";               // Implicit copy assignment operator.
-    string s2 = "Students";
-    char str[]=" Ice Age";
+    // string initiasation.
+    string s0;
+    string s1("hello");
+    string s2 ="hello world";
+    string s3(s2);
+    string s4=s3;
+    char a[]={"abcde"};
+    string s5(a);
 
-    string s3;
 
-    s3=s1+s2;                
-    cout<<s1<<endl<<s2<<endl<<s3;
-    cout<<"\n\n";
+    cout<<s0<<endl;
+    cout<<s1<<endl;
+    cout<<s2<<endl;
+    cout<<s3<<endl;
+    cout<<s4<<endl;
+    cout<<s5<<endl;
+    //ckecking if a string is empty or not
+    if (s0.empty())
+    {
+        cout<<"s0 is empty"<<endl;
+    }
+
+
+    //appending
+    s0.append("i love c++");
+    cout<<s0<<endl;
+    s0+= " and python";
+    cout<<s0<<endl;
+
+
+    //Remove;
+    cout<<s0.length()<<endl;
+    s0.clear();
+    cout<<s0.length()<<endl;
+
+
+    //compare two strings
+
+    s0="Apple";
+    s1="Mango";
+    cout<<s1.compare(s0)<<endl;//1
+    cout<<s0.compare(s1)<<endl;//-1
+
+    //overloaded operator
+    if(s1>s0){
+        cout<<"Mango is greater than s0"<<endl;
+    }
+
+    cout<<s1[0]<<endl;
+
+    //find substrings
+    string s="i want to have apple juice";
+    int idx =s.find("apple");
+    cout<<"apple is at "<<idx<<endl;
+
+
+    //remove word from a string.
+    string word ="apple";
+    int len = word.length();
+    cout<<s<<endl;
+    s.erase(idx,len+1);
+    cout<<s<<endl;
+
+    //iterate over all the character in the string
+    for(int i=0;i<s1.length();i++){
+        cout<<s1[i]<<":";
+    }
+    cout<<endl;
+    //iterators
+    for(auto it = s.begin();it!=s.end();it++)
+    {
+        cout<<(*it)<<",";
+    }
+    cout<<endl;
+
+    //for each loop
+    for(auto c:s){
+        cout<<c<<",";
+    }
     
-    string s4;
-    cout<<"Enter your Name : ";
-    getline(cin,s4);                     //--------------------
+    int N;
+    cin>>N;//taking no. of strings
+    cin.get();
 
-    cout<<s4;
-    cout<<"\n\n";
-
-   /*------------------------------------------Mixed Operations----------------------------------------*/
-
-    string s5;
-    s5=s1+str;                               // Concatenation of a string object s1 and a char array str can be done.
-    
-    s5=s1 + " Fire";                          // Concatenation of a string object s1 and a direct string is possible.
-    // s5=s1 + Fire;   //Wrong (Fire is not a string here)
- 
-    s5 = s1+ 'A';                            //Possible
-
-    cout<<s5<<"\n\n";
-
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    string S[100];
+    for(int i=0;i<N;i++)
+    {
+        getline(cin,S[i]);
+    }
+    cout<<endl;
+    //sorting
+    sort(S,S+N);
+    for(int i=0;i<N;i++)
+    {
+        cout<<S[i]<<endl;
+    }
+    cout<<endl;
+    //comparator
+    sort(S,S+N,compare);
+    for(int i=0;i<N;i++)
+    {
+        cout<<N[i]<<endl;
+    }
     return 0;
 
 }
