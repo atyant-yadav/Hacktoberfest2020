@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Feedback</title>
+    <link rel="stylesheet" href="feedback.css">
+  </head>
+  <body>
+<div class="fee">
+  <h1>Write your feedback here</h1>
+</div>
+<div class="frm">
+<form id="frm" method="post" action="feedback.php">
+  <input type="text" name="name" class="form-control" placeholder="Your Name" required>
+  <br>
+  <input type="email" name="email" class="form-control" placeholder="Your Email" required><br>
+  <textarea name="message"  class="form-control" placeholder="Message" row="4" required></textarea><br>
+  <input type="submit" class="form-control submit" value="SEND MESSAGE">
+</form>
+</div>
+  </body>
+</html>

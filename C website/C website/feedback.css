@@ -1,0 +1,50 @@
+body{
+  margin:0;padding: 0;text-align: center;
+background-image: url(https://www.freevector.com/uploads/vector/preview/20335/Sunset_design_background_vector.jpg);
+background-position: center;
+background-size: cover;
+font-family: sans-serif;
+}
+.fee{
+  margin-top: 100px;
+  color: black;
+  text-transform: uppercase;
+  transition: all 4s ease-in-out;
+}
+.fee h1{
+  font-size: 32px;
+  line-height: 10px;
+}
+form{
+margin-top: 50px;
+transition: all 4s ease-in-out;
+
+}
+.form-control{
+  width:600px;
+  background: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid gray;
+  color: black;
+  font-size: 18px;
+  margin-bottom: 16px;
+
+}
+input{
+  height: 45px;
+}
+form .submit{
+  background: #ff5722;
+  border-color: transparent;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  height: 50px;
+  margin-top: 20px;
+}
+form .submit:hover{
+  background-color: #f44336;
+  cursor: pointer;
+}

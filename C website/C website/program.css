@@ -1,0 +1,127 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+h1{
+  text-align: center;
+  height: auto;width: auto;
+  color: black;
+  margin: 50px 50px 30px 50px;
+  font-size: 30px;
+}
+body{
+  background-image: url("https://cdn.wallpapersafari.com/12/3/w9WcoJ.jpg");
+  background-repeat: no-repeat;
+background-size: cover;
+font-family: sans-serif;
+}
+.menu{
+  background: black;
+  text-align: center;
+  opacity: .8;
+
+}
+.menu ul {
+  display: inline-flex;
+  list-style: none;
+
+}
+.menu ul li {
+  width: 150px;
+  margin: 15px;
+  padding: 15px;
+}
+.menu ul li a{
+  text-decoration: none;
+  color: white;
+}
+ .active,.menu ul li:hover{
+  background: orange;
+  border-radius: 3px;
+  opacity: .8;
+}
+.sub
+{
+  display: none;
+}
+.menu ul li:hover .sub
+{
+  display: block;
+  position: absolute;
+  background: black;
+  margin-top: 15px;
+  margin-left: -15px;
+  opacity: .8;
+}
+.menu ul li:hover .sub ul{
+  display: block;
+  margin: 10px;
+}
+.info{
+  text-align:justify;
+  color: white;
+  margin-top: 80px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px;
+ background-color: black;
+  opacity: .8;
+   text-indent: 50px;
+   line-height: 1.8;
+   word-spacing: 10px;
+   font-family: "Times New Roman", Times, serif;
+  /* font-style: italic;
+   font-weight: bold;*/
+   font-size: 20px;
+   padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+.H{
+  margin-top: 30px;
+  margin-bottom: 100px;
+  margin-right: 10px;
+  margin-left: 600px;
+  padding-top: 15px;
+ padding-right: 50px;
+ padding-bottom: 15px;
+ padding-left: 50px;
+ background-color: black;
+ opacity: .8;
+ color: white;
+ font-size: 20px;
+}
+.N{
+  margin-top: 30px;
+  margin-bottom: 100px;
+  margin-right: 10px;
+  margin-left: 600px;
+  padding-top: 15px;
+ padding-right: 50px;
+ padding-bottom: 15px;
+ padding-left: 50px;
+ background-color: black;
+ opacity: .8;
+ color: white;
+ font-size: 20px;
+
+}
+
+.M{
+
+  margin-top: 400px;
+  margin-bottom: 50px;
+  margin-right: 10px;
+  margin-left: 1100px;
+  padding-top: 15px;
+ padding-right: 50px;
+ padding-bottom: 15px;
+ padding-left: 50px;
+ background-color: black;
+ opacity: .8;
+ color: white;
+ font-size: 20px;
+}
