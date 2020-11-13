@@ -1,0 +1,117 @@
+/*Works best on destkop browser */
+body { 
+	padding: 20px;
+	margin: 10px;
+}
+header {
+	background: #C0C0C0;
+	background-image: url("../images/flywheel.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 1px;
+}
+h1 {
+	font-variant: all-small-caps;
+	text-align: center;
+	color : rgba(225,225,225,1);
+	font-size: 100px;
+	line-height: 2%;
+	margin: 35px;
+}
+.active {
+	color : rgba(258,228,213,.7);
+	background: rgb(0,0,0);
+}
+nav {
+	text-align: center;
+	margin: 10px;
+    height: 100px;
+    transform: translate(0px, -55px);
+}
+nav a {
+	color :rgb(0,0,0);
+	display:inline-block;
+	background: rgba(218,234,213,.60);
+	text-decoration: none;
+	padding: 15px;
+	margin: 7%;
+	border-radius: 5px;
+	height: 20px;
+	width: 120px;
+	opacity: .1%:;
+	transition-property: color , background ;
+	transition-delay: 0s;
+	transition-duration: .5s;
+}
+nav a:hover{
+	background-color: rgb(0,0,0);
+	background-image: url(http://www.zingerbugimages.com/backgrounds/multi_colored_stars.gif);
+	color: rgba(258,228,213,.7);
+}
+.left{
+	background: #808000;
+	width:20%;
+	float: left;
+	padding: 1% ;
+	height: 600px;
+}
+.left img{
+	border:solid 2px rgb(0,0,0);
+	width:60%;
+	margin-top: 3%;
+	margin-right: 20%;
+	margin-bottom: 1%;
+	margin-left: 20%;
+	display: block;
+	overflow: auto;
+}
+.para {
+	padding: 40px;
+	transform: translate(0px, -33px);
+	text-shadow: 2px 2px  #E0E0E0;
+}
+h2 {
+	font-variant:bold;
+	color:rgb(33,33,33);
+	font-size:35px;
+	line-height:40%;
+	padding-left: 300px;
+}
+p {
+	font-size:18px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-left: 300px;
+}
+.tab{
+	margin-left: 450px;
+	margin-top: -65px;
+	width: 800px;
+	border-spacing: 3px;
+}
+.heading th {
+	border-radius: 4px 4px 0 0;
+	-webkit-border-radius: 4px 4px 0 0;
+	height:25px;
+	background: linear-gradient(#afe76e 0%, #757e1a 100%);
+	font-size: 150%;
+	border-bottom:  3px solid #AFB42B;
+	color: white;
+	box-sizing: border-box;
+	height: 35px;
+} 
+th , td{
+	text-align: center;
+	line-height: 35px;
+}
+th:first-child , td:first-child{
+	text-align: left;
+}
+td{
+	opacity: .6;
+	background: rgb(197 225 165);
+	font-family: sans-serif;
+}
+td:hover{
+	opacity: 1;
+}
+
