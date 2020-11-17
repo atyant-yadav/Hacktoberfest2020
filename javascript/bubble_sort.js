@@ -1,3 +1,4 @@
+//Javascript function to implement Bubble Sort [In-place Sorting Algorithm].
 function bubble_Sort(a)
 {
     var swapp;
@@ -19,5 +20,8 @@ function bubble_Sort(a)
     } while (swapp);
  return x; 
 }
-
+//Sample example to test the function
+console.log("Input array:");
+console.log("[12, 345, 4, 546, 122, 84, 98, 64, 9]");
+console.log("Sorted array using Bubble Sort:");
 console.log(bubble_Sort([12, 345, 4, 546, 122, 84, 98, 64, 9]));
