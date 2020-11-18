@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Document</title>
+ </head>
+ <body>
+ <h1>How many Fingers am i holding up???</h1>
+ <hr>
+ <brs>
+ <input type="text" id="guess">
+ <button id="check">GUESS!!</button>
+ <script type="text/javascript">
+ document.getElementById("check").onclick= function()
+ {
+	 /* her we can also write                    randomNumber=Math.floor(Math.random()*6); */
+	var randomNumber = Math.random();
+	randomNumber= randomNumber*6;
+	randomNumber= Math.floor(randomNumber);    
+	if(document.getElementById("guess").value== randomNumber)
+	{
+		alert("Well done !! you got it");
+    }
+	else
+	{
+		alert("Nope! The number was :- "+ randomNumber);
+	}
+ }
+
+ </script> 
+ </body>
+</html>
