@@ -1,0 +1,493 @@
+/* Universal Styles */
+
+html {
+    font-size: 16px;
+  }
+  
+  body {
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
+  .image-container {
+    overflow: hidden;
+  }
+  
+  .image-container img {
+    display: block;
+    max-width: 100%;
+  }
+  
+  @media only screen and (max-width: 990px) {
+    html {
+      font-size: 14px;
+    }
+  }
+  
+  /* Header */
+  
+  header {
+    display: flex;
+    align-items: center;
+    padding: .5rem 3.75rem;
+    background-color: orange;
+  }
+  
+  header .logo-small {
+    display: none;
+  }
+  
+  header .logo-small,
+  header .logo-big {
+    flex-grow: 1;
+  }
+  
+  nav li {
+    display: inline;
+    padding-right: 2rem;
+  }
+  
+  nav li:last-child {
+    padding-right: 0;
+  }
+  
+  @media only screen and (max-width: 990px) {
+    header .logo-big {
+      display: none;
+    }
+  
+    header .logo-small {
+      display: block;
+    }
+  }
+  
+  @media only screen and (max-width: 540px) {
+    header {
+      flex-direction: column;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  
+    header .logo-small {
+      margin-bottom: 1rem;
+    }
+  }
+  
+  /* Banner */
+  
+  #banner {
+    position: relative;
+    height: 43.75rem;
+    padding: 0 25%;
+    background: url("	https://content.codecademy.com/courses/freelance-1/unit-6/banner.png") center center no-repeat;
+    background-size: cover;
+    text-align: center;
+  }
+  
+  #banner:before { /* Orange Overlay */
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  
+  }
+  
+  #banner * {
+    position: relative; /* Makes elements display above overlay. */
+  }
+  
+  h1 {
+    padding-top: 10.4375rem;
+    padding-bottom: 1.25rem;
+    font-family: "Creepster", cursive;
+    font-size: 8rem;
+  
+  }
+  
+  #banner p {
+    color: white;
+    line-height: 1.5;
+    font-size: 1.375rem;
+  }
+  
+  @media only screen and (max-width: 820px) {
+    h1 {
+      padding-top: 7rem;
+      font-size: 6rem;
+    }
+  }
+  
+  @media only screen and (max-width: 590px) {
+    h1 {
+      font-size: 4rem;
+    }
+  }
+  
+  /* Color Guide */
+  
+  #color-guide {
+    padding: 3.875rem 15% 13.5rem 15%;
+  }
+  
+  #color-guide .introduction {
+    padding: 0 10%;
+    margin-bottom: .75rem;
+    text-align: center;
+    font-size: 1.375rem;
+    line-height: 1.4;
+  }
+  
+  #color-guide h2 {
+    margin-bottom: 2.4375rem;
+    line-height: 1;
+    font-size: 2rem;
+    color: orange;
+  }
+  
+  #color-guide .color {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5.25rem;
+  }
+  
+  .color .information {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 35%;
+  }
+  
+  .color .information h3 {
+    padding-bottom: .5rem;
+    font-size: 1.375rem;
+    font-weight: bold;
+  }
+  
+  .color .information p {
+    font-size: .875rem;
+    line-height: 1.4;
+  }
+  
+  .color .swatches {
+    width: 60%;
+  }
+  
+  .color .swatches h4 {
+    margin-bottom: 1.25rem;
+    font-size: 1.125rem;
+    font-weight: bold;
+  
+  }
+  
+  .color .swatch {
+    display: flex;
+    height: 6.6875rem;
+    border: 10px solid #e6e6e6;
+    margin-bottom: 1.25rem;
+  }
+  
+  .color .swatch:last-child {
+    margin-bottom: 0;
+  }
+  
+  .color .swatch > div {
+    flex-grow: 1;
+    border-right: 10px solid #e6e6e6;
+  }
+  
+  .color .swatch > div:last-child {
+    border-right: 0;
+  }
+  
+  @media only screen and (max-width: 820px) {
+    #color-guide .color {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .color .information {
+      width: 100%;
+      margin-bottom: 3rem;
+      align-items: center;
+    }
+  
+    .color .information h3 {
+      padding-bottom: 1.5rem;
+    }
+  
+    .color .information p {
+      margin-bottom: 2rem;
+    }
+  
+    .color .swatches {
+      width: 100%;
+    }
+  }
+  
+  /* Red Swatches */
+  
+  .reds .base-color {
+    color: #ff002b;
+  }
+  
+  /* Red lightness decreases by 15 */
+  .reds .lightness .color-1 {
+  
+  }
+  
+  .reds .lightness .color-2 {
+    background-color: hsl(350, 100%, 65%);
+  }
+  
+  .reds .lightness .color-3 {
+    background-color: hsl(350, 100%, 50%);
+  }
+  
+  .reds .lightness .color-4 {
+    background-color: hsl(350, 100%, 35%);
+  }
+  
+  .reds .lightness .color-5 {
+    background-color: hsl(350, 100%, 20%);
+  }
+  
+  /* Red saturation decreases by 15 */
+  .reds .saturation .color-1 {
+  
+  }
+  
+  .reds .saturation .color-2 {
+    background-color: hsl(350, 85%, 50%);
+  }
+  
+  .reds .saturation .color-3 {
+    background-color: hsl(350, 70%, 50%);
+  }
+  
+  .reds .saturation .color-4 {
+    background-color: hsl(350, 55%, 50%);
+  }
+  
+  .reds .saturation .color-5 {
+    background-color: hsl(350, 40%, 50%);
+  }
+  
+  /* Red hue increases by 15 */
+  .reds .hue .color-1 {
+  
+  }
+  
+  .reds .hue .color-2 {
+    background-color: hsl(335, 100%, 50%);
+  }
+  
+  .reds .hue .color-3 {
+    background-color: hsl(350, 100%, 50%);
+  }
+  
+  .reds .hue .color-4 {
+    background-color: hsl(5, 100%, 50%);
+  }
+  
+  .reds .hue .color-5 {
+    background-color: hsl(20, 100%, 50%);
+  }
+  
+  /* Green Swatches */
+  
+  .greens .base-color {
+    color: #00ff2a;
+  }
+  
+  /* Green lightness decreases by 20 */
+  .greens .lightness .color-1 {
+  
+  }
+  
+  .greens .lightness .color-2 {
+    background-color: hsl(103, 100%, 70%);
+  }
+  
+  .greens .lightness .color-3 {
+    background-color: hsl(103, 100%, 50%);
+  }
+  
+  .greens .lightness .color-4 {
+    background-color: hsl(103, 100%, 30%);
+  }
+  
+  .greens .lightness .color-5 {
+    background-color: hsl(104, 100%, 10%);
+  }
+  
+  /* Green saturation decreases by 20 */
+  .greens .saturation .color-1 {
+  
+  }
+  
+  .greens .saturation .color-2 {
+    background-color: hsl(130, 80%, 50%);
+  }
+  
+  .greens .saturation .color-3 {
+    background-color: hsl(130, 60%, 50%);
+  }
+  
+  .greens .saturation .color-4 {
+    background-color: hsl(130, 40%, 50%);
+  }
+  
+  .greens .saturation .color-5 {
+    background-color: hsl(131, 20%, 50%);
+  }
+  
+  /* Green hue increases by 22 */
+  .greens .hue .color-1 {
+  
+  }
+  
+  .greens .hue .color-2 {
+    background-color: hsl(108, 100%, 50%);
+  }
+  
+  .greens .hue .color-3 {
+    background-color: hsl(130, 100%, 50%);
+  }
+  
+  .greens .hue .color-4 {
+    background-color: hsl(152, 100%, 50%);
+  }
+  
+  .greens .hue .color-5 {
+    background-color: hsl(174, 100%, 50%);
+  }
+  
+  /* Blue Swatches */
+  
+  .blues .base-color {
+    color: #0055ff;
+  }
+  
+  /* Blue lightness decreases by 20 */
+  .blues .lightness .color-1 {
+  
+  }
+  
+  .blues .lightness .color-2 {
+    background-color: hsl(220, 100%, 70%);
+  }
+  
+  .blues .lightness .color-3 {
+    background-color: hsl(220, 100%, 50%);
+  }
+  
+  .blues .lightness .color-4 {
+    background-color: hsl(220, 100%, 30%);
+  }
+  
+  .blues .lightness .color-5 {
+    background-color: hsl(220, 100%, 10%);
+  }
+  
+  /* Blue saturation decreases by 20 */
+  .blues .saturation .color-1 {
+  
+  }
+  
+  .blues .saturation .color-2 {
+    background-color: hsl(220, 80%, 50%);
+  }
+  
+  .blues .saturation .color-3 {
+    background-color: hsl(220, 60%, 50%);
+  }
+  
+  .blues .saturation .color-4 {
+    background-color: hsl(220, 40%, 50%);
+  }
+  
+  .blues .saturation .color-5 {
+    background-color: hsl(220, 20%, 50%);
+  }
+  
+  /* Blue hue decreases by 20 */
+  .blues .hue .color-1 {
+  
+  }
+  
+  .blues .hue .color-2 {
+    background-color: hsl(240, 100%, 50%);
+  }
+  
+  .blues .hue .color-3 {
+    background-color: hsl(220, 100%, 50%);
+  }
+  
+  .blues .hue .color-4 {
+    background-color: hsl(200, 100%, 50%);
+  }
+  
+  .blues .hue .color-5 {
+    background-color: hsl(180, 100%, 50%);
+  }
+  
+  /* Footer */
+  
+  footer {
+    position: relative;
+    height: 30rem;
+    padding: 7.8125rem 30% 0 30%;
+    background: url("https://content.codecademy.com/courses/freelance-1/unit-6/footer.png") center center no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-size: 1.125rem;
+    line-height: 1.4;
+    color: white;
+  }
+  
+  footer:before { /* Overlay */
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  
+  }
+  
+  footer * {
+    position: relative; /* Makes elements display above overlay. */
+  }
+  
+  footer strong {
+    display: block;
+    margin-bottom: 1.25rem;
+    font-size: 2.25rem;
+  }
+  
+  footer p {
+    margin-bottom: 4.3125rem;
+  }
+  
+  footer .button {
+    padding: 1.25rem 3.75rem;
+    border-radius: 4px;
+    background-color: orange;
+  }
+  
+  @media only screen and (max-width: 560px) {
+    footer {
+      padding: 4.8125rem 15% 0 15%;
+    }
+  }
+  
