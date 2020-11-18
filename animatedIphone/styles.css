@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "sfPro" , sans-serif;
+    src: url('/SF\ Pro\ Display\ Thin.ttf');
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    perspective: 1000px;
+}
+
+.container{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    transform-style: preserve-3d;
+    min-height: 80vh;
+    width: 35rem;
+    border-radius: 40px;
+    padding: 0rem 5rem;
+    box-shadow: 0px 20px 20px rgba(0,0,0,0.2), 0px 0px 50px rgba(0,0,0,0.2);
+}
+
+.iphone{
+    margin-top: 10px;
+    min-height: 35vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iphone img {
+    height: 20rem;
+    z-index: 2;
+    transition: all 0.75s ease-out;
+}
+
+.circle{
+    width: 17rem;
+    height: 17rem;
+    border-radius: 50%;
+    background: linear-gradient(
+    to right,
+    rgba(66, 66, 66, 0.75),
+    rgba(116, 107, 107, 0.75)
+    );
+    position: absolute;
+    z-index: 1;
+}
+
+.info h1 {
+    padding: 0.5rem 0rem;
+    font-size: 3rem;
+    transition: all 0.75s ease-out;
+}
+
+.info h3 {
+    font-size: 1.5rem;
+    padding: 1rem 0rem;
+    color: #585858;
+    font-weight: lighter;
+    transition: all 0.75s ease-out;
+}
+.variants { 
+    transition: all 0.75s ease-out;
+}
+.variants button {
+    margin-top: 2rem;
+    padding: 0.5rem 1.85rem;
+    background: none;
+    border: none;
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.2);
+    border-radius: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #585858;
+}
+
+button.active{
+    background: #585858;
+    color: white;
+}
+
+.purchase{
+    margin-top: 5rem;
+    transition: all 0.75s ease-out;
+}
+
+.purchase button{
+    width: 100%;
+    padding: 1rem 0rem;
+    background: #F54642;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
