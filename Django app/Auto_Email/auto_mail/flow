@@ -1,0 +1,17 @@
+Models.py
+    Mail
+              
+Views.py
+    Mail Creation View (redirects to that mail detail view)
+    Mail Detail View (Mail the actual mail)
+    Mail List View (optional)
+    Mail Publish view (redirects to success page)
+
+Forms.py
+    Mail_Creation_Form
+
+Urls.py
+    CreateView
+    ListView
+    DetailView
+    PostView
