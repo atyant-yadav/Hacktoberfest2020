@@ -1,0 +1,42 @@
+
+import java.util.*; 
+import java.lang.*; 
+import java.io.*; 
+   
+interface one 
+{ 
+    public void print_1(); 
+} 
+   
+interface two 
+{ 
+    public void print_2(); 
+} 
+   
+interface three extends one,two 
+{ 
+    public void print_3(); 
+} 
+class child implements three 
+{ 
+       public void print_3() { 
+        System.out.println("print_3"); 
+    } 
+   
+    public void print_for() 
+    { 
+        System.out.println("print_2); 
+    } 
+} 
+  
+
+public class MultipleInheritance 
+{ 
+    public static void main(String[] args) 
+    { 
+        child c = new child(); 
+        c.print_3(); 
+        c.print_2(); 
+        c.print_3(); 
+    } 
+} 
