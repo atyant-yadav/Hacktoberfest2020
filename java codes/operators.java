@@ -12,9 +12,9 @@ public class operators {
         System.out.print("Enter password:");
         String upwd = s.next();
 
-        
-        if ((uuid.equals(x) && upwd.equals(y))
-            || (uuid.equals(y) && upwd.equals(x)))
+        //username is not case-sensitive
+        if ((uuid.equalsIgnoreCase(x) && upwd.equalsIgnoreCase(y))
+            || (uuid.equalsIgnoreCase(y) && upwd.equalsIgnoreCase(x)))
             {
             System.out.println("Welcome user.");
         }
