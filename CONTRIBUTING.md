@@ -7,6 +7,7 @@ The following is a set of guidelines for contributing to "Hacktoberfest2020". Th
 1. You can report bugs/glitches/faults that you are likely to come across when using the project.
 2. You can suggest enhancements that you would want to see implemented on the project by creating an issue.
 3. You can address a wide variety of open issues by claiming them if you wish to contribute and make a pull request.
+4. Its not all about code, even adding value to a code is equally important.
 
 ## Steps to contribute for new comers (For First Timers) 
 
@@ -53,6 +54,10 @@ The following is a set of guidelines for contributing to "Hacktoberfest2020". Th
 * The maintainer of this repo will review the changes you have made. If they find any errors/mistakes, they may request some changes; in which case, you should make the appropriate changes in your forked repository and then commit them again. Note: Make sure you make changes in the same branch you previously requested PR from.
 
 * At last, if maintainers review and come to a conclusion that your PR is good to go, then your request will be approved and will be merged.
+
+* Do not copy code or spam.
+
+* Begin with small steps and you will eventually find your way.
 
 Happy Hacktoberfest! Happy Coding! Keep Contributing!
 If you liked this repo or learned something from it, do not forget to give it a star :)
