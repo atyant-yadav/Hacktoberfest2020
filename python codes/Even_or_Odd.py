@@ -1,5 +1,8 @@
-x=int(input("Enter a number to identify Even or Odd"))
-if x%2==0:
-    print("The number you entered is Even")
+#taking input of int datatype and storing it in a variable.
+num=int(input("Enter a number to identify Even or Odd"))
+#now check the input.
+if num%2==0:
+    print("The number {0} entered is Even".format(num))
 else:
-    print("The number you entered is Odd")
+    print("The number {0} entered is Odd".format(num))
+ #end of code.
