@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+       fund releif
+    </title>
+    <link href="bootstrap.css"/>
+    <link href="file1.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://images.indianexpress.com/2018/08/keralafloods-1200.jpg" crossorigin="anonymous"></script>
+    <script src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fscroll.in%2Farticle%2F891755%2Fkerala-floods-again-show-why-it-is-hard-to-link-such-hazards-to-global-warming&psig=AOvVaw3tVPKbZlD1bx-MNXhM7qe6&ust=1603896073825000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCl6NCA1ewCFQAAAAAdAAAAABAD" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </head>
+
+    <body>
+        <p>Affiliated to: <a href="https://www.Keralarescue.in/"> Kerela rescue</a></p>
+        <h1>HELP FLOOD VICTIMS-DONATE</h1>
+        <br>
+        <br>
+        <div class="container">
+          <div class="row">
+            <div class="col-sm" class="overflow-hidden">
+              <p><b>Fill the form with the details of the donor:</b></p>
+                <form>
+                  First name:<br>
+                  <input type="text" name="firstname"><br>
+                  Last name:<br>
+                  <input type="text" name="lastname"><br>
+                  
+                  Adress:<br>
+                  
+                  <input type="text" name="adress"><br>
+                  <input type="radio" name="gender" value="male" checked> Male<br>
+                  <input type="radio" name="gender" value="female"> Female<br>
+                  <button type="button" onclick="alert('Learn Javascript to learn how to extract the values entered!')">
+                  Click Me!</button>
+                </form>
+            </div>
+            <div class="col-sm" class="overflow-auto">
+              <form>
+                <img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/08/19/719939-kerala-flood.jpg">
+                <br>
+                <img src="https://images.indianexpress.com/2018/08/keralafloods-1200.jpg">
+                <br>
+                <img src="https://s01.sgp1.digitaloceanspaces.com/large/891755-xsxsainscs-1531826434.jpg">
+              </form>
+                
+            </div>
+        
+          </div>
+        </div>
+        </body>
+</html>
+
+      
