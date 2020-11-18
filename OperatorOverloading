@@ -1,0 +1,23 @@
+class  OperatorOverloading { 
+  
+    void operator(String str1, String str2) 
+    { 
+        String s = str1 + str2; 
+        System.out.println("Concatinated String - "
+                           + s);     } 
+  
+    void operator(int a, int b) 
+    { 
+        int c = a + b; 
+        System.out.println("Sum = " + c); 
+    } 
+} 
+  
+class Main { 
+    public static void main(String[] args) 
+    { 
+        OperatorOverloading obj = new OperatorOverloading(); 
+        obj.operator(2, 3); 
+        obj.operator("hello", "world"); 
+    } 
+} 
