@@ -15,6 +15,7 @@ Add your name here, and learn how to edit README.md. <br />
 Atyant Yadav <br />
 Arush Saxena <br />
 Anwesh Das <br />
+Karan Gupta <br />
 Aman Raj <br />
 Tanmay Rastaugi <br />
 Alexander Peresypkin <br />
