@@ -48,7 +48,7 @@ int main()
    
   while (p!=m1.end())
   {
-      cout<<p->first<<endl;
+      cout<<p->first<<endl;                        
       p++;
   } 
 
@@ -64,10 +64,10 @@ int main()
 
   // m1.clear()        Will clear all data.
 
-  m1.insert(pair<string,int>("Naman",70));
+  m1.insert(pair<string,int>("Naman",70));             // inserts a new key value pair 
  
   for (auto x : m1)
-  cout<<x.first<<endl;
+  cout<<x.first<<endl;                                 // prints all the keys in the map
 
   cout<<"\n";
 
