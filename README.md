@@ -87,4 +87,4 @@ Vatsla Adhiakri <br/>
 Sana Shah <br/>
 Archit Gupta <br/>
 Samrat Khan <br/>
-Kavisha Nethmini Subasinghe <br/>
+Kavisha Nethmini <br/>
