@@ -1,0 +1,26 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+// declaring a vector
+vector<int>v;
+// size of the vector
+int n = v.size();
+// Taking input in a vector
+for(int i=0;i<n;i++)
+{
+   int temp;
+   cin>>temp;
+   v.push_back(temp);
+}
+// tranversal of a vector
+for(int i=0;i<n;i++)
+{
+   cout<<v[i]<<" ";
+}
+// sort function in vector
+
+sort(v.begin(),v.end());
+
+return 0;
+}
