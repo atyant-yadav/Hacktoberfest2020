@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <style>
+        .right{
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <h2>Registration Form</h2>
+
+    <form action="#" name="myForm" onsubmit="return validate()">
+       <table>
+        <tr>
+            <td class="right">
+                <label for="userid" >User id:</label>
+            </td>
+            <td>
+                <input type="text" name="userid" id="userid" required>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label for="pass">Password:</label>
+            </td>
+            <td>
+                <input type="password" name="pass" id="pass" required>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label for="name">Name:</label>
+            </td>
+            <td>
+                <input type="text" name="name" id="name" required>
+            </td>
+        </tr>
+        <tr>
+            <td class="right"> 
+                <label for="address">Address:</label>
+            </td>
+            <td>
+                <input type="text" name="address" id="address">
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label for="country">Country:</label>
+            </td>
+            <td>
+                <select name="country" id="country" required>
+                    <option value="-1">Select</option>
+                    <option value="1">India</option>
+                    <option value="2">USA</option>
+                    <option value="3">UK</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label for="zip">ZIP Code:</label>
+            </td>
+            <td>
+                <input type="text" name="zip" id="zip" required>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label for="mail">Email:</label>
+            </td>
+            <td>
+                <input type="email" name="mail" id="mail" required>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label for="sex">Sex:</label>
+            </td>
+            <td>
+                <input type="radio" name="sex" id="female">
+                <label for="female">Female</label>
+
+                <input type="radio" name="sex" id="male">
+                <label for="male">Male</label>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label for="lang">Language:</label>
+            </td>
+            <td>
+                <input type="checkbox" name="lang" id="hindi">
+                <label for="hindi">Hindi</label>
+
+                <input type="checkbox" name="lang" id="non-hindi">
+                <label for="non-hindi">Non-Hindi</label>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label for="about">About:</label>
+            </td>
+            <td>
+                <textarea name="about" id="about" rows="6"></textarea>
+            </td>
+        </tr>
+
+       </table>
+
+       <input type="submit" value="Submit">
+    </form>
+
+
+    <script>
+        let id = document.myForm.userid.value;
+        let pass = document.myForm.pass.value;
+        let zip = document.myForm.zip.value;
+
+        function validate()
+        {
+            if(id.length < 5 || id.length > 12)
+            alert("Name must be 5-12 charachters long.");
+            return false;
+
+            if(pass.length < 5 || id.length > 12)
+            alert("Name must be 5-12 charachters long.");
+            return false;
+
+        }
+    </script>
+</body>
+</html>
