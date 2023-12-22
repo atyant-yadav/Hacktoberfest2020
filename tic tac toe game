@@ -1,0 +1,98 @@
+const readline = require('readline');
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+// Initialize an empty 3x3 board
+let board = [
+  ['', '', ''],
+  ['', '', ''],
+  ['', '', '']
+];
+
+let currentPlayer = 'X'; // Player X starts
+
+// Function to print the Tic Tac Toe board
+function printBoard() {
+  for (let i = 0; i < 3; ++i) {
+    console.log(board[i].join(' '));
+  }
+}
+
+// Function to check if a player has won
+function checkWin(player) {
+  // Check rows and columns
+  for (let i = 0; i < 3; ++i) {
+    if (board[i][0] === player && board[i][1] === player && board[i][2] === player)
+      return true;
+    if (board[0][i] === player && board[1][i] === player && board[2][i] === player)
+      return true;
+  }
+
+  // Check diagonals
+  if (board[0][0] === player && board[1][1] === player && board[2][2] === player)
+    return true;
+  if (board[0][2] === player && board[1][1] === player && board[2][0] === player)
+    return true;
+
+  return false;
+}
+
+// Function to check if the board is full (draw)
+function isBoardFull() {
+  for (let i = 0; i < 3; ++i) {
+    for (let j = 0; j < 3; ++j) {
+      if (board[i][j] === '')
+        return false; // Empty space found
+    }
+  }
+  return true; // Board is full
+}
+
+// Function to handle a player's move
+function makeMove(row, col) {
+  // Check if the move is valid
+  if (row < 0 || row >= 3 || col < 0 || col >= 3 || board[row][col] !== '') {
+    console.log('Invalid move. Try again.');
+    return;
+  }
+
+  // Make the move
+  board[row][col] = currentPlayer;
+
+  // Print the current board
+  printBoard();
+
+  // Check if the current player has won
+  if (checkWin(currentPlayer)) {
+    console.log(`Player ${currentPlayer} wins!`);
+    rl.close();
+    return;
+  }
+
+  // Check for a draw
+  if (isBoardFull()) {
+    console.log("It's a draw!");
+    rl.close();
+    return;
+  }
+
+  // Switch to the other player
+  currentPlayer = (currentPlayer === 'X') ? 'O' : 'X';
+
+  // Prompt the next player for their move
+  promptPlayer();
+}
+
+// Function to prompt the current player for their move
+function promptPlayer() {
+  rl.question(`Player ${currentPlayer}, enter your move (row and column separated by space): `, (answer) => {
+    const [row, col] = answer.split(' ').map(Number);
+    makeMove(row, col);
+  });
+}
+
+// Start the game by prompting the first player
+promptPlayer();
