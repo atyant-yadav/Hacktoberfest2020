@@ -75,6 +75,7 @@ Rahul <br/>
 Aniket Shukla<br/>
 Melancholic <br/>
 Harsh<br/>
+Hardik Arora<br/>
 Bhashitha Dhananjaya<br/>
 EnryBarto <br/>
 Hritik<br/>
